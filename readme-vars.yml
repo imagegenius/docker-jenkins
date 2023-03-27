@@ -1,0 +1,50 @@
+---
+
+# project information
+project_name: jenkins
+project_url: "https://jenkins.io/"
+project_logo: "https://camo.githubusercontent.com/1babb15d046739f64d24c9a3424dd912a88683894f6f2307a969501ad84739f8/68747470733a2f2f7777772e6a656e6b696e732e696f2f696d616765732f6a656e6b696e732d6c6f676f2d7469746c652d6461726b2e737667"
+project_blurb: "Jenkins is the leading open-source automation server. Built with Java, it provides over 1,800 plugins to support automating virtually anything, so that humans can spend their time doing things machines cannot."
+project_github_repo_url: "https://github.com/imagegenius/docker-{{ project_name }}"
+project_blurb_optional_extras_enabled: false
+
+# supported architectures
+available_architectures:
+  - { arch: "{{ arch_x86_64 }}", tag: "amd64-latest"}
+  - { arch: "{{ arch_arm64 }}", tag: "arm64v8-latest"}
+
+# development version
+development_versions: false
+
+# container parameters
+common_param_env_vars_enabled: true
+param_container_name: "{{ project_name }}"
+param_usage_include_net: false
+param_usage_include_env: true
+param_env_vars:
+  - { env_var: "TZ", env_value: "Australia/Melbourne", desc: "Specify a timezone to use eg. Australia/Melbourne." }
+param_usage_include_vols: true
+param_volumes:
+  - { vol_path: "/config", vol_host_path: "path_to_appdata", desc: "Jenkins Home" }
+param_usage_include_ports: true
+param_ports:
+  - { external_port: "8080", internal_port: "8080", port_desc: "WebUI Port" }
+  - { external_port: "50000", internal_port: "50000", port_desc: "Slave Port" }
+param_device_map: false
+cap_add_param: false
+
+# optional container parameters
+opt_param_usage_include_env: false
+opt_param_usage_include_vols: false
+opt_param_usage_include_ports: false
+opt_param_device_map: false
+opt_cap_add_param: false
+optional_block_1: false
+
+# application setup block
+app_setup_block_enabled: false
+app_setup_block: ""
+
+# changelog
+changelogs:
+  - { date: "27.03.23:", desc: "Initial release." }

@@ -1,0 +1,10 @@
+#!/usr/bin/with-contenv bash
+
+exec \
+    s6-notifyoncheck -d -n 300 -w 1000 -c "nc -z 127.0.0.1 8080" \
+        s6-setuidgid abc \
+            java \
+                -Duser.home=/config \
+                -Djenkins.model.Jenkins.slaveAgentPort=50000 \
+                -Dhudson.lifecycle=hudson.lifecycle.ExitLifecycle \
+                -jar /app/jenkins/jenkins.war
