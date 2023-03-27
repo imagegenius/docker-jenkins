@@ -25,6 +25,12 @@ This image supports the following architectures:
 | arm64 | ✅ | arm64v8-\<version tag\> |
 | armhf | ❌ | |
 
+## Application Setup
+
+The WebUI can be found at `http://your-ip:8080`, the admin password for initial setup is printed in the logs, follow the setup steps to configure Jenkins.
+
+This image has full support for PUID/PGID and docker-mods, so you could use the [docker-in-docker](https://github.com/linuxserver/docker-mods/tree/universal-docker-in-docker) mod from linuxserver to run docker within this container
+
 ## Usage
 
 Example snippets to start creating a container:
