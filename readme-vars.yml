@@ -42,8 +42,11 @@ opt_cap_add_param: false
 optional_block_1: false
 
 # application setup block
-app_setup_block_enabled: false
-app_setup_block: ""
+app_setup_block_enabled: true
+app_setup_block: |
+  The WebUI can be found at `http://your-ip:8080`, the admin password for initial setup is printed in the logs, follow the setup steps to configure Jenkins.
+
+  This image has full support for PUID/PGID and docker-mods, so you could use the [docker-in-docker](https://github.com/linuxserver/docker-mods/tree/universal-docker-in-docker) mod from linuxserver to run docker within this container
 
 # changelog
 changelogs:
