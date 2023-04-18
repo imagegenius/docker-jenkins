@@ -34,7 +34,7 @@ ca-certificates-bundle              20220614-r4                                a
 caffeine                            2.9.3                                      java-archive    
 caffeine-api                        2.9.3-65.v6a_47d0f4d1fe                    jenkins-plugin  
 checks-api                          1.8.1                                      jenkins-plugin  
-cli                                 2.400                                      java-archive    
+cli                                 2.401                                      java-archive    
 command-launcher                    90.v669d7ccb_7c31                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -60,7 +60,7 @@ commons-validator                   1.7                                        j
 constant-pool-scanner               1.2                                        java-archive    
 coreutils                           9.1-r0                                     apk             
 crypto-util                         1.8                                        java-archive    
-curl                                7.88.1-r1                                  apk             
+curl                                8.0.1-r0                                   apk             
 display-url-api                     2.3.7                                      jenkins-plugin  
 dom4j                               2.1.4                                      java-archive    
 echarts-api                         5.4.0-1                                    jenkins-plugin  
@@ -176,10 +176,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.7                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            63.v62d2fd4b_4793                          jenkins-plugin  
-jenkins-core                        2.400                                      java-archive    
+jenkins-core                        2.401                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.400                                      java-archive    
+jenkins-war                         2.401                                      java-archive    
 jetty-alpn-java-server              10.0.13                                    java-archive    
 jetty-alpn-server                   10.0.13                                    java-archive    
 jetty-http                          10.0.13                                    java-archive    
@@ -211,7 +211,7 @@ libbsd                              0.11.7-r0                                  a
 libbz2                              1.0.8-r4                                   apk             
 libc-utils                          0.7.2-r3                                   apk             
 libcrypto3                          3.0.8-r3                                   apk             
-libcurl                             7.88.1-r1                                  apk             
+libcurl                             8.0.1-r0                                   apk             
 libedit                             20221030.3.1-r0                            apk             
 libexpat                            2.5.0-r0                                   apk             
 libffi                              3.4.4-r0                                   apk             
@@ -285,15 +285,15 @@ snakeyaml                           1.32                                       j
 snakeyaml                           1.33                                       java-archive    
 snakeyaml-api                       1.32-86.ve3f030a_75631                     jenkins-plugin  
 spotbugs-annotations                4.7.3                                      java-archive    
-spring-aop                          5.3.26                                     java-archive    
-spring-beans                        5.3.26                                     java-archive    
-spring-context                      5.3.26                                     java-archive    
-spring-core                         5.3.26                                     java-archive    
-spring-expression                   5.3.26                                     java-archive    
+spring-aop                          5.3.27                                     java-archive    
+spring-beans                        5.3.27                                     java-archive    
+spring-context                      5.3.27                                     java-archive    
+spring-core                         5.3.27                                     java-archive    
+spring-expression                   5.3.27                                     java-archive    
 spring-security-core                5.8.2                                      java-archive    
 spring-security-crypto              5.8.2                                      java-archive    
 spring-security-web                 5.8.2                                      java-archive    
-spring-web                          5.3.26                                     java-archive    
+spring-web                          5.3.27                                     java-archive    
 sshd                                3.249.v2dc2ea_416e33                       java-archive    
 sshd-common                         2.9.2                                      java-archive    
 sshd-core                           2.9.2                                      java-archive    
@@ -334,10 +334,10 @@ websocket-core-server               10.0.13                                    j
 websocket-jetty-api                 10.0.13                                    java-archive    
 websocket-jetty-common              10.0.13                                    java-archive    
 websocket-jetty-server              10.0.13                                    java-archive    
-websocket-jetty10                   2.400                                      java-archive    
-websocket-jetty9                    2.400                                      java-archive    
+websocket-jetty10                   2.401                                      java-archive    
+websocket-jetty9                    2.401                                      java-archive    
 websocket-servlet                   10.0.13                                    java-archive    
-websocket-spi                       2.400                                      java-archive    
+websocket-spi                       2.401                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.10                                       java-archive    
