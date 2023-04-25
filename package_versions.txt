@@ -29,7 +29,7 @@ font-dejavu                         2.37-r3                             apk
 fontconfig                          2.14.1-r0                           apk             
 freetype                            2.12.1-r0                           apk             
 giflib                              5.2.1-r2                            apk             
-git                                 2.38.4-r1                           apk             
+git                                 2.38.5-r0                           apk             
 git-lfs                             3.2.0-r5                            apk             
 github.com/dpotapov/go-spnego       v0.0.0-20210315154721-298b63a54430  go-module       
 github.com/git-lfs/git-lfs/v3       (devel)                             go-module       
