@@ -36,7 +36,7 @@ RUN \
     "https://github.com/jenkinsci/plugin-installation-manager-tool/releases/download/${PLUGIN_CLI_VERSION}/jenkins-plugin-manager-${PLUGIN_CLI_VERSION}.jar" && \
   curl -o \
     /app/jenkins/jenkins.war -L \
-    "https://github.com/jenkinsci/jenkins/releases/download/${JENKINS_VERSION}/jenkins.war"
+    "https://repo.jenkins-ci.org/public/org/jenkins-ci/main/jenkins-war/${JENKINS_VERSION/jenkins-/}/jenkins-war-${JENKINS_VERSION/jenkins-/}.war"
 
 # copy local files
 COPY root/ /
