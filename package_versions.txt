@@ -34,7 +34,7 @@ ca-certificates-bundle              20220614-r4                                a
 caffeine                            2.9.3                                      java-archive    
 caffeine-api                        2.9.3-65.v6a_47d0f4d1fe                    jenkins-plugin  
 checks-api                          1.8.1                                      jenkins-plugin  
-cli                                 2.402                                      java-archive    
+cli                                 2.403                                      java-archive    
 command-launcher                    90.v669d7ccb_7c31                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -176,10 +176,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.7                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            63.v62d2fd4b_4793                          jenkins-plugin  
-jenkins-core                        2.402                                      java-archive    
+jenkins-core                        2.403                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.402                                      java-archive    
+jenkins-war                         2.403                                      java-archive    
 jetty-alpn-java-server              10.0.15                                    java-archive    
 jetty-alpn-server                   10.0.15                                    java-archive    
 jetty-http                          10.0.15                                    java-archive    
@@ -332,10 +332,9 @@ websocket-core-server               10.0.15                                    j
 websocket-jetty-api                 10.0.15                                    java-archive    
 websocket-jetty-common              10.0.15                                    java-archive    
 websocket-jetty-server              10.0.15                                    java-archive    
-websocket-jetty10                   2.402                                      java-archive    
-websocket-jetty9                    2.402                                      java-archive    
+websocket-jetty10                   2.403                                      java-archive    
 websocket-servlet                   10.0.15                                    java-archive    
-websocket-spi                       2.402                                      java-archive    
+websocket-spi                       2.403                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.11                                       java-archive    
