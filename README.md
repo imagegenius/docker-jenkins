@@ -48,6 +48,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Etc/UTC
+      - "CLI_ARGS=-Xms1G -Xmx4G" #optional
     volumes:
       - path_to_appdata:/config
     ports:
@@ -64,6 +65,7 @@ docker run -d \
   -e PUID=1000 \
   -e PGID=1000 \
   -e TZ=Etc/UTC \
+  -e CLI_ARGS="-Xms1G -Xmx4G" `#optional` \
   -p 8080:8080 \
   -p 50000:50000 \
   -v path_to_appdata:/config \
@@ -83,6 +85,7 @@ To configure the container, pass variables at runtime using the format `<externa
 | `-e PUID=1000` | UID for permissions - see below for explanation |
 | `-e PGID=1000` | GID for permissions - see below for explanation |
 | `-e TZ=Etc/UTC` | Specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
+| `-e CLI_ARGS=-Xms1G -Xmx4G` | Optionally specify any CLI variables you want to launch java with. Misconfiguration will cause jenkins to fail to start! |
 | `-v /config` | Jenkins Home |
 
 ## Umask for running applications
@@ -124,4 +127,5 @@ Instructions for updating containers:
 
 ## Versions
 
+* **06.05.23:** - Add CLI variables.
 * **27.03.23:** - Initial release.
