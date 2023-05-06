@@ -78,7 +78,7 @@ fontconfig                          2.14.1-r0                                  a
 freetype                            2.12.1-r0                                  apk             
 giflib                              5.2.1-r2                                   apk             
 git                                 2.38.5-r0                                  apk             
-git-lfs                             3.2.0-r5                                   apk             
+git-lfs                             3.2.0-r6                                   apk             
 github.com/dpotapov/go-spnego       v0.0.0-20210315154721-298b63a54430         go-module       
 github.com/git-lfs/git-lfs/v3       (devel)                                    go-module       
 github.com/git-lfs/gitobj/v2        v2.1.0                                     go-module       
@@ -153,7 +153,6 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
-jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r0                         binary          
 java-cacerts                        1.0-r1                                     apk             
