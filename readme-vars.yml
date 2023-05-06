@@ -32,7 +32,9 @@ param_device_map: false
 cap_add_param: false
 
 # optional container parameters
-opt_param_usage_include_env: false
+opt_param_usage_include_env: true
+opt_param_env_vars:
+  - { env_var: "CLI_ARGS", env_value: "-Xms1G -Xmx4G", desc: "Optionally specify any CLI variables you want to launch java with. Misconfiguration will cause jenkins to fail to start!" }
 opt_param_usage_include_vols: false
 opt_param_usage_include_ports: false
 opt_param_device_map: false
@@ -48,4 +50,5 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "06.05.23:", desc: "Add CLI variables." }
   - { date: "27.03.23:", desc: "Initial release." }

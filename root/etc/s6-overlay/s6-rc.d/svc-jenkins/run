@@ -9,4 +9,5 @@ exec \
                 -Duser.home=/config \
                 -Djenkins.model.Jenkins.slaveAgentPort=50000 \
                 -Dhudson.lifecycle=hudson.lifecycle.ExitLifecycle \
-                -jar /app/jenkins/jenkins.war
+                -jar /app/jenkins/jenkins.war \
+                "$CLI_ARGS"
