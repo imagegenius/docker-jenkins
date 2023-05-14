@@ -29,8 +29,8 @@ brotli-libs                         1.0.9-r9                                   a
 busybox                             1.35.0                                     binary          
 busybox                             1.35.0-r29                                 apk             
 busybox-binsh                       1.35.0-r29                                 apk             
-ca-certificates                     20220614-r4                                apk             
-ca-certificates-bundle              20220614-r4                                apk             
+ca-certificates                     20230506-r0                                apk             
+ca-certificates-bundle              20230506-r0                                apk             
 caffeine                            2.9.3                                      java-archive    
 caffeine-api                        2.9.3-65.v6a_47d0f4d1fe                    jenkins-plugin  
 checks-api                          1.8.1                                      jenkins-plugin  
@@ -153,6 +153,7 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
+jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r0                         binary          
 java-cacerts                        1.0-r1                                     apk             
