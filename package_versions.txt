@@ -34,7 +34,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            2.9.3                                      java-archive    
 caffeine-api                        2.9.3-65.v6a_47d0f4d1fe                    jenkins-plugin  
 checks-api                          1.8.1                                      jenkins-plugin  
-cli                                 2.405                                      java-archive    
+cli                                 2.406                                      java-archive    
 command-launcher                    90.v669d7ccb_7c31                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -177,10 +177,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.7                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            63.v62d2fd4b_4793                          jenkins-plugin  
-jenkins-core                        2.405                                      java-archive    
+jenkins-core                        2.406                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.405                                      java-archive    
+jenkins-war                         2.406                                      java-archive    
 jetty-alpn-java-server              10.0.15                                    java-archive    
 jetty-alpn-server                   10.0.15                                    java-archive    
 jetty-http                          10.0.15                                    java-archive    
@@ -294,7 +294,9 @@ spring-security-crypto              5.8.3                                      j
 spring-security-web                 5.8.3                                      java-archive    
 spring-web                          5.3.27                                     java-archive    
 sshd                                3.249.v2dc2ea_416e33                       java-archive    
+sshd-common                         2.10.0                                     java-archive    
 sshd-common                         2.9.2                                      java-archive    
+sshd-core                           2.10.0                                     java-archive    
 sshd-core                           2.9.2                                      java-archive    
 ssl_client                          1.35.0-r29                                 apk             
 stapler                             1785.vf9cb_74a_b_ec5b_                     java-archive    
@@ -333,9 +335,9 @@ websocket-core-server               10.0.15                                    j
 websocket-jetty-api                 10.0.15                                    java-archive    
 websocket-jetty-common              10.0.15                                    java-archive    
 websocket-jetty-server              10.0.15                                    java-archive    
-websocket-jetty10                   2.405                                      java-archive    
+websocket-jetty10                   2.406                                      java-archive    
 websocket-servlet                   10.0.15                                    java-archive    
-websocket-spi                       2.405                                      java-archive    
+websocket-spi                       2.406                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.11                                       java-archive    
