@@ -60,7 +60,7 @@ commons-validator                   1.7                                        j
 constant-pool-scanner               1.2                                        java-archive    
 coreutils                           9.1-r0                                     apk             
 crypto-util                         1.8                                        java-archive    
-curl                                8.0.1-r0                                   apk             
+curl                                8.1.0-r1                                   apk             
 display-url-api                     2.3.7                                      jenkins-plugin  
 dom4j                               2.1.4                                      java-archive    
 echarts-api                         5.4.0-1                                    jenkins-plugin  
@@ -212,7 +212,7 @@ libbsd                              0.11.7-r0                                  a
 libbz2                              1.0.8-r4                                   apk             
 libc-utils                          0.7.2-r3                                   apk             
 libcrypto3                          3.0.8-r4                                   apk             
-libcurl                             8.0.1-r0                                   apk             
+libcurl                             8.1.0-r1                                   apk             
 libedit                             20221030.3.1-r0                            apk             
 libexpat                            2.5.0-r0                                   apk             
 libffi                              3.4.4-r0                                   apk             
@@ -244,10 +244,10 @@ metainf-services                    1.9                                        j
 mina-sshd-api-common                2.9.2-50.va_0e1f42659a_a                   jenkins-plugin  
 mina-sshd-api-core                  2.9.2-50.va_0e1f42659a_a                   jenkins-plugin  
 mkfontscale                         1.2.2-r1                                   apk             
-musl                                1.2.3-r4                                   apk             
+musl                                1.2.3-r5                                   apk             
 musl-locales                        0.1.0-r0                                   apk             
 musl-locales-lang                   0.1.0-r0                                   apk             
-musl-utils                          1.2.3-r4                                   apk             
+musl-utils                          1.2.3-r5                                   apk             
 mxparser                            1.2.2                                      java-archive    
 ncurses-libs                        6.3_p20221119-r0                           apk             
 ncurses-terminfo-base               6.3_p20221119-r0                           apk             
