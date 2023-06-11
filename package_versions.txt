@@ -26,9 +26,9 @@ bootstrap5-api                      5.2.1-3                                    j
 bouncycastle-api                    2.26                                       jenkins-plugin  
 bridge-method-annotation            1.26                                       java-archive    
 brotli-libs                         1.0.9-r14                                  apk             
-busybox                             1.36.0                                     binary          
-busybox                             1.36.0-r9                                  apk             
-busybox-binsh                       1.36.0-r9                                  apk             
+busybox                             1.36.1                                     binary          
+busybox                             1.36.1-r0                                  apk             
+busybox-binsh                       1.36.1-r0                                  apk             
 ca-certificates                     20230506-r0                                apk             
 ca-certificates-bundle              20230506-r0                                apk             
 caffeine                            2.9.3                                      java-archive    
@@ -60,7 +60,7 @@ commons-validator                   1.7                                        j
 constant-pool-scanner               1.2                                        java-archive    
 coreutils                           9.3-r1                                     apk             
 crypto-util                         1.8                                        java-archive    
-curl                                8.1.1-r1                                   apk             
+curl                                8.1.2-r0                                   apk             
 display-url-api                     2.3.7                                      jenkins-plugin  
 dom4j                               2.1.4                                      java-archive    
 echarts-api                         5.4.0-1                                    jenkins-plugin  
@@ -211,8 +211,8 @@ libattr                             2.5.1-r4                                   a
 libbsd                              0.11.7-r1                                  apk             
 libbz2                              1.0.8-r5                                   apk             
 libc-utils                          0.7.2-r5                                   apk             
-libcrypto3                          3.1.0-r4                                   apk             
-libcurl                             8.1.1-r1                                   apk             
+libcrypto3                          3.1.1-r1                                   apk             
+libcurl                             8.1.2-r0                                   apk             
 libedit                             20221030.3.1-r1                            apk             
 libexpat                            2.5.0-r1                                   apk             
 libffi                              3.4.4-r2                                   apk             
@@ -224,7 +224,7 @@ libmd                               1.0.4-r2                                   a
 libncursesw                         6.4_p20230506-r0                           apk             
 libpng                              1.6.39-r3                                  apk             
 libproc2                            4.0.3-r1                                   apk             
-libssl3                             3.1.0-r4                                   apk             
+libssl3                             3.1.1-r1                                   apk             
 libtasn1                            4.19.0-r1                                  apk             
 libunistring                        1.1-r1                                     apk             
 libx11                              1.8.4-r3                                   apk             
@@ -300,7 +300,7 @@ sshd-common                         2.10.0                                     j
 sshd-common                         2.9.2                                      java-archive    
 sshd-core                           2.10.0                                     java-archive    
 sshd-core                           2.9.2                                      java-archive    
-ssl_client                          1.36.0-r9                                  apk             
+ssl_client                          1.36.1-r0                                  apk             
 stapler                             1785.vf9cb_74a_b_ec5b_                     java-archive    
 stapler-adjunct-codemirror          1.3                                        java-archive    
 stapler-adjunct-timeline            1.5                                        java-archive    
