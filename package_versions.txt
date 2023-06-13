@@ -34,7 +34,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            2.9.3                                      java-archive    
 caffeine-api                        2.9.3-65.v6a_47d0f4d1fe                    jenkins-plugin  
 checks-api                          1.8.1                                      jenkins-plugin  
-cli                                 2.409                                      java-archive    
+cli                                 2.410                                      java-archive    
 command-launcher                    90.v669d7ccb_7c31                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -59,7 +59,7 @@ commons-text-api                    1.10.0-27.vb_fa_3896786a_7                 j
 commons-validator                   1.7                                        java-archive    
 constant-pool-scanner               1.2                                        java-archive    
 coreutils                           9.3-r1                                     apk             
-crypto-util                         1.8                                        java-archive    
+crypto-util                         1.9                                        java-archive    
 curl                                8.1.2-r0                                   apk             
 display-url-api                     2.3.7                                      jenkins-plugin  
 dom4j                               2.1.4                                      java-archive    
@@ -108,7 +108,7 @@ golang.org/x/text                   v0.9.0                                     g
 groovy-all                          2.4.21                                     java-archive    
 groovy-sandbox                      1.32                                       java-archive    
 gson                                2.8.6                                      java-archive    
-guava                               32.0.0-jre                                 java-archive    
+guava                               32.0.1-jre                                 java-archive    
 guice                               6.0.0                                      java-archive    
 hawtjni-runtime                     1.8                                        java-archive    
 http2-common                        10.0.15                                    java-archive    
@@ -154,6 +154,7 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
+jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r1                         binary          
 java-cacerts                        1.0-r1                                     apk             
@@ -176,10 +177,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.7                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            63.v62d2fd4b_4793                          jenkins-plugin  
-jenkins-core                        2.409                                      java-archive    
+jenkins-core                        2.410                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.409                                      java-archive    
+jenkins-war                         2.410                                      java-archive    
 jetty-alpn-java-server              10.0.15                                    java-archive    
 jetty-alpn-server                   10.0.15                                    java-archive    
 jetty-http                          10.0.15                                    java-archive    
@@ -336,9 +337,9 @@ websocket-core-server               10.0.15                                    j
 websocket-jetty-api                 10.0.15                                    java-archive    
 websocket-jetty-common              10.0.15                                    java-archive    
 websocket-jetty-server              10.0.15                                    java-archive    
-websocket-jetty10                   2.409                                      java-archive    
+websocket-jetty10                   2.410                                      java-archive    
 websocket-servlet                   10.0.15                                    java-archive    
-websocket-spi                       2.409                                      java-archive    
+websocket-spi                       2.410                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.11                                       java-archive    
