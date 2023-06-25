@@ -3,8 +3,8 @@ access-modifier-annotation          1.31                                       j
 alpine-baselayout                   3.4.3-r1                                   apk             
 alpine-baselayout-data              3.4.3-r1                                   apk             
 alpine-keys                         2.4-r1                                     apk             
-alpine-release                      3.18.0-r0                                  apk             
-alsa-lib                            1.2.9-r0                                   apk             
+alpine-release                      3.18.2-r0                                  apk             
+alsa-lib                            1.2.9-r1                                   apk             
 annotation-indexer                  1.17                                       java-archive    
 ant                                 1.10.13                                    java-archive    
 ant-launcher                        1.10.13                                    java-archive    
@@ -150,6 +150,7 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
+jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r1                         binary          
 java-cacerts                        1.0-r1                                     apk             
@@ -273,7 +274,7 @@ scanelf                             1.3.7-r1                                   a
 scm-api                             672.v64378a_b_20c60                        jenkins-plugin  
 script-security                     1251.vfe552ed55f8d                         jenkins-plugin  
 sezpoz                              1.13                                       java-archive    
-shadow                              4.13-r2                                    apk             
+shadow                              4.13-r4                                    apk             
 skalibs                             2.13.1.1-r1                                apk             
 slf4j-api                           2.0.7                                      java-archive    
 slf4j-jdk14                         2.0.7                                      java-archive    
