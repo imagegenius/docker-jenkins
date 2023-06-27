@@ -34,11 +34,12 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.6                                      java-archive    
 caffeine-api                        3.1.6-115.vb_8b_b_328e59d8                 jenkins-plugin  
 checks-api                          2.0.0                                      jenkins-plugin  
-cli                                 2.411                                      java-archive    
+cli                                 2.412                                      java-archive    
 command-launcher                    100.v2f6722292ee8                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
 commons-codec                       1.15                                       java-archive    
+commons-codec                       1.16.0                                     java-archive    
 commons-collections                 3.2.2                                      java-archive    
 commons-compress                    1.23.0                                     java-archive    
 commons-digester                    2.1                                        java-archive    
@@ -150,7 +151,6 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
-jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r1                         binary          
 java-cacerts                        1.0-r1                                     apk             
@@ -173,10 +173,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.7                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            66.vd8fa_64ee91b_d                         jenkins-plugin  
-jenkins-core                        2.411                                      java-archive    
+jenkins-core                        2.412                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.411                                      java-archive    
+jenkins-war                         2.412                                      java-archive    
 jetty-alpn-java-server              10.0.15                                    java-archive    
 jetty-alpn-server                   10.0.15                                    java-archive    
 jetty-http                          10.0.15                                    java-archive    
@@ -239,7 +239,6 @@ mailer                              457.v3f72cb_e015e5                         j
 matrix-auth                         3.1.8                                      jenkins-plugin  
 matrix-project                      789.v57a_725b_63c79                        jenkins-plugin  
 memory-monitor                      1.12                                       java-archive    
-metainf-services                    1.9                                        java-archive    
 mina-sshd-api-common                2.10.0-69.v28e3e36d18eb_                   jenkins-plugin  
 mina-sshd-api-core                  2.10.0-69.v28e3e36d18eb_                   jenkins-plugin  
 mkfontscale                         1.2.2-r3                                   apk             
@@ -325,12 +324,12 @@ websocket-core-server               10.0.15                                    j
 websocket-jetty-api                 10.0.15                                    java-archive    
 websocket-jetty-common              10.0.15                                    java-archive    
 websocket-jetty-server              10.0.15                                    java-archive    
-websocket-jetty10                   2.411                                      java-archive    
+websocket-jetty10                   2.412                                      java-archive    
 websocket-servlet                   10.0.15                                    java-archive    
-websocket-spi                       2.411                                      java-archive    
+websocket-spi                       2.412                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
-winstone                            6.11                                       java-archive    
+winstone                            6.12                                       java-archive    
 woodstox-core                       6.5.1                                      java-archive    
 workflow-api                        1213.v646def1087f9                         jenkins-plugin  
 workflow-step-api                   639.v6eca_cd8c04a_a_                       jenkins-plugin  
