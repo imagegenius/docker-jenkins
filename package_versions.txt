@@ -316,6 +316,7 @@ tink                                1.6.1                                      j
 trilead-api                         2.72.v2a_3236754f73                        jenkins-plugin  
 trilead-putty-extension             1.2                                        java-archive    
 trilead-ssh2                        build-217-jenkins-231.vda_87ca_d57ecf      java-archive    
+trilead-ssh2-build                  217-jenkins-231.vda_87ca_d57ecf            java-archive    
 txw2                                2.3.7                                      java-archive    
 txw2                                20110809                                   java-archive    
 tyrus-client                        2.1.2                                      java-archive    
