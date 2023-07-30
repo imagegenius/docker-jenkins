@@ -60,7 +60,7 @@ commons-validator                   1.7                                        j
 constant-pool-scanner               1.2                                        java-archive    
 coreutils                           9.3-r1                                     apk             
 crypto-util                         1.8                                        java-archive    
-curl                                8.1.2-r0                                   apk             
+curl                                8.2.0-r1                                   apk             
 display-url-api                     2.3.7                                      jenkins-plugin  
 dom4j                               2.1.4                                      java-archive    
 echarts-api                         5.4.0-1                                    jenkins-plugin  
@@ -154,7 +154,6 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
-jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r1                         binary          
 java-cacerts                        1.0-r1                                     apk             
@@ -211,8 +210,8 @@ libattr                             2.5.1-r4                                   a
 libbsd                              0.11.7-r1                                  apk             
 libbz2                              1.0.8-r5                                   apk             
 libc-utils                          0.7.2-r5                                   apk             
-libcrypto3                          3.1.1-r2                                   apk             
-libcurl                             8.1.2-r0                                   apk             
+libcrypto3                          3.1.1-r3                                   apk             
+libcurl                             8.2.0-r1                                   apk             
 libedit                             20221030.3.1-r1                            apk             
 libexpat                            2.5.0-r1                                   apk             
 libffi                              3.4.4-r2                                   apk             
@@ -224,7 +223,7 @@ libmd                               1.0.4-r2                                   a
 libncursesw                         6.4_p20230506-r0                           apk             
 libpng                              1.6.39-r3                                  apk             
 libproc2                            4.0.3-r1                                   apk             
-libssl3                             3.1.1-r2                                   apk             
+libssl3                             3.1.1-r3                                   apk             
 libtasn1                            4.19.0-r1                                  apk             
 libunistring                        1.1-r1                                     apk             
 libx11                              1.8.4-r4                                   apk             
@@ -254,7 +253,7 @@ musl-utils                          1.2.4-r0                                   a
 mxparser                            1.2.2                                      java-archive    
 ncurses-terminfo-base               6.4_p20230506-r0                           apk             
 netcat-openbsd                      1.219-r1                                   apk             
-nghttp2-libs                        1.53.0-r0                                  apk             
+nghttp2-libs                        1.55.1-r0                                  apk             
 oniguruma                           6.9.8-r1                                   apk             
 openjdk17-jre                       17.0.7_p7-r1                               apk             
 openjdk17-jre-headless              17.0.7_p7-r1                               apk             
