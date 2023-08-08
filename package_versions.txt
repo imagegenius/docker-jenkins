@@ -152,7 +152,6 @@ jakarta.mail                        2.0.1                                      j
 jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive    
 jakarta.websocket-api               2.1.0                                      java-archive    
 jakarta.websocket-client-api        2.1.0                                      java-archive    
-jansi                               1.11                                       java-archive    
 jansi-native                        1.5                                        java-archive    
 java                                17.0.7+7-alpine-r1                         binary          
 java-cacerts                        1.0-r1                                     apk             
