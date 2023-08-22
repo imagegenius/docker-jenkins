@@ -6,8 +6,8 @@ alpine-keys                         2.4-r1                                     a
 alpine-release                      3.18.3-r0                                  apk             
 alsa-lib                            1.2.9-r1                                   apk             
 annotation-indexer                  1.17                                       java-archive    
-ant                                 1.10.13                                    java-archive    
-ant-launcher                        1.10.13                                    java-archive    
+ant                                 1.10.14                                    java-archive    
+ant-launcher                        1.10.14                                    java-archive    
 antisamy-markup-formatter           159.v25b_c67cd35fb_                        jenkins-plugin  
 antlr4-runtime                      4.13.0                                     java-archive    
 apache-httpcomponents-client-4-api  4.5.14-150.v7a_b_9d17134a_5                jenkins-plugin  
@@ -33,7 +33,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.6                                      java-archive    
 caffeine-api                        3.1.6-115.vb_8b_b_328e59d8                 jenkins-plugin  
 checks-api                          2.0.0                                      jenkins-plugin  
-cli                                 2.419                                      java-archive    
+cli                                 2.420                                      java-archive    
 command-launcher                    100.v2f6722292ee8                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -173,10 +173,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.7                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            66.vd8fa_64ee91b_d                         jenkins-plugin  
-jenkins-core                        2.419                                      java-archive    
+jenkins-core                        2.420                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.419                                      java-archive    
+jenkins-war                         2.420                                      java-archive    
 jetty-alpn-java-server              10.0.15                                    java-archive    
 jetty-alpn-server                   10.0.15                                    java-archive    
 jetty-http                          10.0.15                                    java-archive    
@@ -285,9 +285,9 @@ spring-beans                        5.3.29                                     j
 spring-context                      5.3.29                                     java-archive    
 spring-core                         5.3.29                                     java-archive    
 spring-expression                   5.3.29                                     java-archive    
-spring-security-core                5.8.5                                      java-archive    
-spring-security-crypto              5.8.5                                      java-archive    
-spring-security-web                 5.8.5                                      java-archive    
+spring-security-core                5.8.6                                      java-archive    
+spring-security-crypto              5.8.6                                      java-archive    
+spring-security-web                 5.8.6                                      java-archive    
 spring-web                          5.3.29                                     java-archive    
 sshd                                3.303.vefc7119b_ec23                       java-archive    
 sshd-common                         2.10.0                                     java-archive    
@@ -325,9 +325,9 @@ websocket-core-server               10.0.15                                    j
 websocket-jetty-api                 10.0.15                                    java-archive    
 websocket-jetty-common              10.0.15                                    java-archive    
 websocket-jetty-server              10.0.15                                    java-archive    
-websocket-jetty10                   2.419                                      java-archive    
+websocket-jetty10                   2.420                                      java-archive    
 websocket-servlet                   10.0.15                                    java-archive    
-websocket-spi                       2.419                                      java-archive    
+websocket-spi                       2.420                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.12                                       java-archive    
