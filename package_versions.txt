@@ -77,7 +77,7 @@ fontconfig                          2.14.2-r3                                  a
 freetype                            2.13.0-r5                                  apk             
 giflib                              5.2.1-r4                                   apk             
 git                                 2.40.1-r0                                  apk             
-git-lfs                             3.3.0-r4                                   apk             
+git-lfs                             3.3.0-r5                                   apk             
 github.com/dpotapov/go-spnego       v0.0.0-20210315154721-298b63a54430         go-module       
 github.com/git-lfs/git-lfs/v3       (devel)                                    go-module       
 github.com/git-lfs/gitobj/v2        v2.1.1                                     go-module       
@@ -99,10 +99,10 @@ github.com/rubyist/tracerx          v0.0.0-20170927163412-787959303086         g
 github.com/spf13/cobra              v0.0.3                                     go-module       
 github.com/spf13/pflag              v1.0.3                                     go-module       
 github.com/ssgelm/cookiejarparser   v1.0.1                                     go-module       
-golang.org/x/crypto                 v0.13.0                                    go-module       
+golang.org/x/crypto                 v0.14.0                                    go-module       
 golang.org/x/net                    v0.10.0                                    go-module       
 golang.org/x/sync                   v0.1.0                                     go-module       
-golang.org/x/sys                    v0.12.0                                    go-module       
+golang.org/x/sys                    v0.13.0                                    go-module       
 golang.org/x/text                   v0.13.0                                    go-module       
 groovy-all                          2.4.21                                     java-archive    
 groovy-sandbox                      1.33                                       java-archive    
@@ -241,10 +241,10 @@ memory-monitor                      1.12                                       j
 mina-sshd-api-common                2.10.0-69.v28e3e36d18eb_                   jenkins-plugin  
 mina-sshd-api-core                  2.10.0-69.v28e3e36d18eb_                   jenkins-plugin  
 mkfontscale                         1.2.2-r3                                   apk             
-musl                                1.2.4-r1                                   apk             
+musl                                1.2.4-r2                                   apk             
 musl-locales                        0.1.0-r1                                   apk             
 musl-locales-lang                   0.1.0-r1                                   apk             
-musl-utils                          1.2.4-r1                                   apk             
+musl-utils                          1.2.4-r2                                   apk             
 mxparser                            1.2.2                                      java-archive    
 ncurses-terminfo-base               6.4_p20230506-r0                           apk             
 netcat-openbsd                      1.219-r1                                   apk             
@@ -300,6 +300,7 @@ stapler-adjunct-timeline            1.5                                        j
 stapler-groovy                      1814.vdc9dd5217ee2                         java-archive    
 stapler-jelly                       1814.vdc9dd5217ee2                         java-archive    
 stax2-api                           4.2.1                                      java-archive    
+stdlib                              go1.20.10                                  go-module       
 structs                             324.va_f5d6774f3a_d                        jenkins-plugin  
 support-log-formatter               1.2                                        java-archive    
 symbol-annotation                   1.24                                       java-archive    
