@@ -33,7 +33,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.6                                      java-archive    
 caffeine-api                        3.1.6-115.vb_8b_b_328e59d8                 jenkins-plugin  
 checks-api                          2.0.0                                      jenkins-plugin  
-cli                                 2.428                                      java-archive    
+cli                                 2.429                                      java-archive    
 command-launcher                    100.v2f6722292ee8                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -173,10 +173,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.9                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            66.vd8fa_64ee91b_d                         jenkins-plugin  
-jenkins-core                        2.428                                      java-archive    
+jenkins-core                        2.429                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.428                                      java-archive    
+jenkins-war                         2.429                                      java-archive    
 jetty-alpn-java-server              10.0.17                                    java-archive    
 jetty-alpn-server                   10.0.17                                    java-archive    
 jetty-http                          10.0.17                                    java-archive    
@@ -266,7 +266,7 @@ popper2-api                         2.11.6-2                                   j
 procps-ng                           4.0.4-r0                                   apk             
 readline                            8.2.1-r1                                   apk             
 relaxngDatatype                     20020414                                   java-archive    
-remoting                            3174.v2c9e67f8f9df                         java-archive    
+remoting                            3181.v78543a_987053                        java-archive    
 robust-http-client                  1.2                                        java-archive    
 scanelf                             1.3.7-r1                                   apk             
 scm-api                             672.v64378a_b_20c60                        jenkins-plugin  
@@ -284,13 +284,15 @@ spring-beans                        5.3.30                                     j
 spring-context                      5.3.30                                     java-archive    
 spring-core                         5.3.30                                     java-archive    
 spring-expression                   5.3.30                                     java-archive    
-spring-security-core                5.8.7                                      java-archive    
-spring-security-crypto              5.8.7                                      java-archive    
-spring-security-web                 5.8.7                                      java-archive    
+spring-security-core                5.8.8                                      java-archive    
+spring-security-crypto              5.8.8                                      java-archive    
+spring-security-web                 5.8.8                                      java-archive    
 spring-web                          5.3.30                                     java-archive    
 sshd                                3.303.vefc7119b_ec23                       java-archive    
 sshd-common                         2.10.0                                     java-archive    
+sshd-common                         2.11.0                                     java-archive    
 sshd-core                           2.10.0                                     java-archive    
+sshd-core                           2.11.0                                     java-archive    
 ssl_client                          1.36.1-r4                                  apk             
 stapler                             1819.v4a_093e9c82f9                        java-archive    
 stapler-adjunct-codemirror          1.3                                        java-archive    
@@ -325,9 +327,9 @@ websocket-core-server               10.0.17                                    j
 websocket-jetty-api                 10.0.17                                    java-archive    
 websocket-jetty-common              10.0.17                                    java-archive    
 websocket-jetty-server              10.0.17                                    java-archive    
-websocket-jetty10                   2.428                                      java-archive    
+websocket-jetty10                   2.429                                      java-archive    
 websocket-servlet                   10.0.17                                    java-archive    
-websocket-spi                       2.428                                      java-archive    
+websocket-spi                       2.429                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.14                                       java-archive    
