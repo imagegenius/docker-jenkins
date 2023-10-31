@@ -33,7 +33,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.6                                      java-archive    
 caffeine-api                        3.1.6-115.vb_8b_b_328e59d8                 jenkins-plugin  
 checks-api                          2.0.0                                      jenkins-plugin  
-cli                                 2.429                                      java-archive    
+cli                                 2.430                                      java-archive    
 command-launcher                    100.v2f6722292ee8                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -45,7 +45,7 @@ commons-digester                    2.1                                        j
 commons-discovery                   0.5                                        java-archive    
 commons-fileupload                  1.5                                        java-archive    
 commons-io                          2.11.0                                     java-archive    
-commons-io                          2.14.0                                     java-archive    
+commons-io                          2.15.0                                     java-archive    
 commons-jelly                       1.1-jenkins-20230713                       java-archive    
 commons-jelly-tags-define           1.1-jenkins-20230713                       java-archive    
 commons-jelly-tags-fmt              1.0                                        java-archive    
@@ -173,10 +173,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.9                                      java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            66.vd8fa_64ee91b_d                         jenkins-plugin  
-jenkins-core                        2.429                                      java-archive    
+jenkins-core                        2.430                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.429                                      java-archive    
+jenkins-war                         2.430                                      java-archive    
 jetty-alpn-java-server              10.0.17                                    java-archive    
 jetty-alpn-server                   10.0.17                                    java-archive    
 jetty-http                          10.0.17                                    java-archive    
@@ -266,7 +266,7 @@ popper2-api                         2.11.6-2                                   j
 procps-ng                           4.0.4-r0                                   apk             
 readline                            8.2.1-r1                                   apk             
 relaxngDatatype                     20020414                                   java-archive    
-remoting                            3181.v78543a_987053                        java-archive    
+remoting                            3192.v713e3b_039fb_e                       java-archive    
 robust-http-client                  1.2                                        java-archive    
 scanelf                             1.3.7-r1                                   apk             
 scm-api                             672.v64378a_b_20c60                        jenkins-plugin  
@@ -327,9 +327,9 @@ websocket-core-server               10.0.17                                    j
 websocket-jetty-api                 10.0.17                                    java-archive    
 websocket-jetty-common              10.0.17                                    java-archive    
 websocket-jetty-server              10.0.17                                    java-archive    
-websocket-jetty10                   2.429                                      java-archive    
+websocket-jetty10                   2.430                                      java-archive    
 websocket-servlet                   10.0.17                                    java-archive    
-websocket-spi                       2.429                                      java-archive    
+websocket-spi                       2.430                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.14                                       java-archive    
