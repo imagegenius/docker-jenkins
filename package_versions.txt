@@ -3,7 +3,7 @@ access-modifier-annotation          1.33                                       j
 alpine-baselayout                   3.4.3-r1                                   apk             
 alpine-baselayout-data              3.4.3-r1                                   apk             
 alpine-keys                         2.4-r1                                     apk             
-alpine-release                      3.18.4-r0                                  apk             
+alpine-release                      3.18.5-r0                                  apk             
 alsa-lib                            1.2.9-r1                                   apk             
 annotation-indexer                  1.17                                       java-archive    
 ant                                 1.10.14                                    java-archive    
@@ -62,7 +62,7 @@ commons-validator                   1.7                                        j
 constant-pool-scanner               1.2                                        java-archive    
 coreutils                           9.3-r1                                     apk             
 crypto-util                         1.9                                        java-archive    
-curl                                8.4.0-r0                                   apk             
+curl                                8.5.0-r0                                   apk             
 display-url-api                     2.200.vb_9327d658781                       jenkins-plugin  
 dom4j                               2.1.4                                      java-archive    
 echarts-api                         5.4.3-1                                    jenkins-plugin  
@@ -211,7 +211,7 @@ libbsd                              0.11.7-r1                                  a
 libbz2                              1.0.8-r5                                   apk             
 libc-utils                          0.7.2-r5                                   apk             
 libcrypto3                          3.1.4-r1                                   apk             
-libcurl                             8.4.0-r0                                   apk             
+libcurl                             8.5.0-r0                                   apk             
 libedit                             20221030.3.1-r1                            apk             
 libexpat                            2.5.0-r1                                   apk             
 libffi                              3.4.4-r2                                   apk             
