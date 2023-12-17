@@ -192,7 +192,7 @@ jetty-xml                           10.0.18                                    j
 jfreechart                          1.0.19                                     java-archive    
 jline                               2.14.6                                     java-archive    
 jna                                 5.13.0                                     java-archive    
-jq                                  1.6-r3                                     apk             
+jq                                  1.6-r4                                     apk             
 jquery3-api                         3.7.0-1                                    jenkins-plugin  
 jrt-fs                              17.0.9                                     java-archive    
 json                                20220924                                   java-archive    
