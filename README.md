@@ -25,6 +25,13 @@ This image supports the following architectures:
 | arm64 | ✅ | arm64v8-\<version tag\> |
 | armhf | ❌ | |
 
+## Version Tags
+
+This image offers different versions via tags. Be cautious when using unstable or development tags, and read their descriptions carefully.
+
+| Tag | Available | Description |
+| :----: | :----: |--- |
+| latest | ✅ | Latest (weekly) Jenkins release with an Alpine base. |
 ## Application Setup
 
 The WebUI can be found at `http://your-ip:8080`, the admin password for initial setup is printed in the logs, follow the setup steps to configure Jenkins.
@@ -86,7 +93,7 @@ To configure the container, pass variables at runtime using the format `<externa
 | `-e PGID=1000` | GID for permissions - see below for explanation |
 | `-e TZ=Etc/UTC` | Specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
 | `-e CLI_ARGS=-Xms1G -Xmx4G` | Optionally specify any CLI variables you want to launch java with. Misconfiguration will cause jenkins to fail to start! |
-| `-v /config` | Jenkins Home |
+| `-v /config` | Jenkins Home (appdata) |
 
 ## Umask for running applications
 
