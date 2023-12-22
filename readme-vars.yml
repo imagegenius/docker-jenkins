@@ -14,7 +14,9 @@ available_architectures:
   - { arch: "{{ arch_arm64 }}", tag: "arm64v8-latest" }
 
 # development version
-development_versions: false
+development_versions: true
+development_versions_items:
+  - { tag: "latest", desc: "Latest (weekly) Jenkins release with an Alpine base." }
 
 # container parameters
 common_param_env_vars_enabled: true
@@ -23,7 +25,7 @@ param_usage_include_net: false
 param_usage_include_env: false
 param_usage_include_vols: true
 param_volumes:
-  - { vol_path: "/config", vol_host_path: "path_to_appdata", desc: "Jenkins Home" }
+  - { vol_path: "/config", vol_host_path: "path_to_appdata", desc: "Jenkins Home (appdata)" }
 param_usage_include_ports: true
 param_ports:
   - { external_port: "8080", internal_port: "8080", port_desc: "WebUI Port" }
