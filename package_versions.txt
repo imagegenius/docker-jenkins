@@ -33,7 +33,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.8                                      java-archive    
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  
 checks-api                          2.0.2                                      jenkins-plugin  
-cli                                 2.438                                      java-archive    
+cli                                 2.439                                      java-archive    
 command-launcher                    107.v773860566e2e                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -167,17 +167,18 @@ jaxb-impl                           2.3.9                                      j
 jaxb-runtime                        2.3.9                                      java-archive    
 jaxen                               2.0.0                                      java-archive    
 jbcrypt                             1.0.0                                      java-archive    
+jbcrypt                             1.0.2                                      java-archive    
 jboss-marshalling                   2.1.2.Final                                java-archive    
 jboss-marshalling-river             2.1.2.Final                                java-archive    
 jcifs                               1.3.18-kohsuke-1                           java-archive    
 jcip-annotations                    1.0                                        java-archive    
-jcl-over-slf4j                      2.0.9                                      java-archive    
+jcl-over-slf4j                      2.0.10                                     java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            73.vddf737284550                           jenkins-plugin  
-jenkins-core                        2.438                                      java-archive    
+jenkins-core                        2.439                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.438                                      java-archive    
+jenkins-war                         2.439                                      java-archive    
 jetty-alpn-java-server              10.0.18                                    java-archive    
 jetty-alpn-server                   10.0.18                                    java-archive    
 jetty-http                          10.0.18                                    java-archive    
@@ -235,7 +236,7 @@ libxtst                             1.2.4-r2                                   a
 linux-pam                           1.5.2-r10                                  apk             
 listenablefuture                    9999.0-empty-to-avoid-conflict-with-guava  java-archive    
 localizer                           1.31                                       java-archive    
-log4j-over-slf4j                    2.0.9                                      java-archive    
+log4j-over-slf4j                    2.0.10                                     java-archive    
 mailer                              463.vedf8358e006b_                         jenkins-plugin  
 matrix-auth                         3.2.1                                      jenkins-plugin  
 matrix-project                      818.v7eb_e657db_924                        jenkins-plugin  
@@ -264,7 +265,6 @@ pcre2                               10.42-r1                                   a
 plugin-management-cli               2.12.11                                    jenkins-plugin  
 plugin-management-library           2.12.11                                    jenkins-plugin  
 plugin-util-api                     3.6.0                                      jenkins-plugin  
-popper2-api                         2.11.6-4                                   jenkins-plugin  
 procps-ng                           4.0.4-r0                                   apk             
 readline                            8.2.1-r1                                   apk             
 relaxngDatatype                     20020414                                   java-archive    
@@ -276,7 +276,9 @@ script-security                     1294.v99333c047434                         j
 sezpoz                              1.13                                       java-archive    
 shadow                              4.13-r4                                    apk             
 skalibs                             2.13.1.1-r1                                apk             
+slf4j-api                           2.0.10                                     java-archive    
 slf4j-api                           2.0.9                                      java-archive    
+slf4j-jdk14                         2.0.10                                     java-archive    
 slf4j-jdk14                         2.0.9                                      java-archive    
 snakeyaml                           1.33                                       java-archive    
 snakeyaml                           2.2                                        java-archive    
@@ -327,9 +329,9 @@ websocket-core-server               10.0.18                                    j
 websocket-jetty-api                 10.0.18                                    java-archive    
 websocket-jetty-common              10.0.18                                    java-archive    
 websocket-jetty-server              10.0.18                                    java-archive    
-websocket-jetty10                   2.438                                      java-archive    
+websocket-jetty10                   2.439                                      java-archive    
 websocket-servlet                   10.0.18                                    java-archive    
-websocket-spi                       2.438                                      java-archive    
+websocket-spi                       2.439                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.16                                       java-archive    
