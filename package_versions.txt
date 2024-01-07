@@ -320,7 +320,7 @@ tyrus-container-jdk-client          2.1.4                                      j
 tyrus-core                          2.1.4                                      java-archive    
 tyrus-spi                           2.1.4                                      java-archive    
 tyrus-standalone-client-jdk         2.1.4                                      java-archive    
-tzdata                              2023c-r1                                   apk             
+tzdata                              2023d-r0                                   apk             
 unzip                               6.0-r14                                    apk             
 utmps-libs                          0.1.2.1-r1                                 apk             
 version-number                      1.11                                       java-archive    
