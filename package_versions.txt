@@ -33,7 +33,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.8                                      java-archive    
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  
 checks-api                          2.0.2                                      jenkins-plugin  
-cli                                 2.445                                      java-archive    
+cli                                 2.446                                      java-archive    
 command-launcher                    107.v773860566e2e                          jenkins-plugin  
 command-line-arguments              (devel)                                    go-module       
 commons-beanutils                   1.9.4                                      java-archive    
@@ -175,10 +175,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.12                                     java-archive    
 jcommon                             1.0.23                                     java-archive    
 jdk-tool                            73.vddf737284550                           jenkins-plugin  
-jenkins-core                        2.445                                      java-archive    
+jenkins-core                        2.446                                      java-archive    
 jenkins-plugin-manager                                                         java-archive    
 jenkins-stapler-support             1.1                                        java-archive    
-jenkins-war                         2.445                                      java-archive    
+jenkins-war                         2.446                                      java-archive    
 jetty-alpn-java-server              10.0.20                                    java-archive    
 jetty-alpn-server                   10.0.20                                    java-archive    
 jetty-http                          10.0.20                                    java-archive    
@@ -284,15 +284,15 @@ snakeyaml                           1.33                                       j
 snakeyaml                           2.2                                        java-archive    
 snakeyaml-api                       2.2-111.vc6598e30cc65                      jenkins-plugin  
 spotbugs-annotations                4.8.3                                      java-archive    
-spring-aop                          5.3.31                                     java-archive    
-spring-beans                        5.3.31                                     java-archive    
-spring-context                      5.3.31                                     java-archive    
-spring-core                         5.3.31                                     java-archive    
-spring-expression                   5.3.31                                     java-archive    
+spring-aop                          5.3.32                                     java-archive    
+spring-beans                        5.3.32                                     java-archive    
+spring-context                      5.3.32                                     java-archive    
+spring-core                         5.3.32                                     java-archive    
+spring-expression                   5.3.32                                     java-archive    
 spring-security-core                5.8.9                                      java-archive    
 spring-security-crypto              5.8.9                                      java-archive    
 spring-security-web                 5.8.9                                      java-archive    
-spring-web                          5.3.31                                     java-archive    
+spring-web                          5.3.32                                     java-archive    
 sshd                                3.312.v1c601b_c83b_0e                      java-archive    
 sshd-common                         2.11.0                                     java-archive    
 sshd-core                           2.11.0                                     java-archive    
@@ -334,9 +334,9 @@ websocket-core-server               10.0.20                                    j
 websocket-jetty-api                 10.0.20                                    java-archive    
 websocket-jetty-common              10.0.20                                    java-archive    
 websocket-jetty-server              10.0.20                                    java-archive    
-websocket-jetty10                   2.445                                      java-archive    
+websocket-jetty10                   2.446                                      java-archive    
 websocket-servlet                   10.0.20                                    java-archive    
-websocket-spi                       2.445                                      java-archive    
+websocket-spi                       2.446                                      java-archive    
 windows-package-checker             1.2                                        java-archive    
 winp                                1.30                                       java-archive    
 winstone                            6.18                                       java-archive    
