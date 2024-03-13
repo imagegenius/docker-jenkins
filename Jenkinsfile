@@ -14,19 +14,19 @@ pipeline {
   environment {
     BUILDS_DISCORD=credentials('build_webhook_url')
     GITHUB_TOKEN=credentials('github_token')
-    BUILD_VERSION_ARG='JENKINS_VERSION'
-    IG_USER='imagegenius'
-    IG_REPO='docker-jenkins'
-    CONTAINER_NAME='jenkins'
-    DIST_IMAGE='alpine'
-    MULTIARCH='true'
-    CI='true'
-    CI_WEB='true'
-    CI_PORT='8080'
-    CI_SSL='false'
-    CI_DOCKERENV=''
-    CI_AUTH=''
-    CI_WEBPATH=''
+    BUILD_VERSION_ARG = 'JENKINS_VERSION'
+    IG_USER = 'imagegenius'
+    IG_REPO = 'docker-jenkins'
+    CONTAINER_NAME = 'jenkins'
+    DIST_IMAGE = 'alpine'
+    MULTIARCH = 'true'
+    CI = 'true'
+    CI_WEB = 'true'
+    CI_PORT = '8080'
+    CI_SSL = 'false'
+    CI_DOCKERENV = ''
+    CI_AUTH = ''
+    CI_WEBPATH = ''
   }
   stages {
     // Setup all the basic environment variables needed for the build
