@@ -10,7 +10,7 @@ LABEL maintainer="hydazz"
 # environment settings
 ENV \
   JENKINS_HOME="/config" \
-  PLUGIN_CLI_VERSION="2.12.11"
+  PLUGIN_CLI_VERSION="2.12.15"
 
 RUN \
   echo "**** install runtime packages ****" && \
