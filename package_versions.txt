@@ -37,28 +37,27 @@ cli                                 2.449                                      j
 command-launcher                    107.v773860566e2e                          jenkins-plugin  (+1 duplicate)   
 command-line-arguments              (devel)                                    go-module                        
 commons-beanutils                   1.9.4                                      java-archive    (+1 duplicate)   
-commons-codec                       1.15                                       java-archive                     
+commons-codec                       1.16.0                                     java-archive                     
 commons-codec                       1.16.1                                     java-archive                     
 commons-collections                 3.2.2                                      java-archive    (+1 duplicate)   
 commons-compress                    1.26.1                                     java-archive                     
 commons-digester                    2.1                                        java-archive                     
 commons-discovery                   0.5                                        java-archive                     
 commons-fileupload                  1.5                                        java-archive                     
-commons-io                          2.11.0                                     java-archive                     
-commons-io                          2.15.1                                     java-archive    (+1 duplicate)   
+commons-io                          2.15.1                                     java-archive    (+2 duplicates)  
 commons-jelly                       1.1-jenkins-20230713                       java-archive                     
 commons-jelly-tags-define           1.1-jenkins-20230713                       java-archive                     
 commons-jelly-tags-fmt              1.0                                        java-archive                     
 commons-jelly-tags-xml              1.1                                        java-archive                     
 commons-jexl                        1.1-jenkins-20111212                       java-archive                     
 commons-lang                        2.6                                        java-archive    (+1 duplicate)   
-commons-lang3                       3.12.0                                     java-archive                     
 commons-lang3                       3.13.0                                     java-archive                     
+commons-lang3                       3.14.0                                     java-archive                     
 commons-lang3-api                   3.13.0-62.v7d18e55f51e2                    jenkins-plugin  (+1 duplicate)   
-commons-logging                     1.2                                        java-archive                     
+commons-logging                     1.3.0                                      java-archive                     
 commons-text                        1.11.0                                     java-archive                     
 commons-text-api                    1.11.0-94.v3e1f4a_926e49                   jenkins-plugin  (+1 duplicate)   
-commons-validator                   1.7                                        java-archive                     
+commons-validator                   1.8.0                                      java-archive                     
 constant-pool-scanner               1.2                                        java-archive                     
 coreutils                           9.3-r2                                     apk                              
 crypto-util                         1.9                                        java-archive                     
@@ -127,16 +126,16 @@ isorelax                            20090621                                   j
 istack-commons-runtime              3.0.12                                     java-archive                     
 j-interop                           2.0.8-kohsuke-1                            java-archive                     
 j-interopdeps                       2.0.8-kohsuke-1                            java-archive                     
-jackson-annotations                 2.14.2                                     java-archive                     
 jackson-annotations                 2.15.3                                     java-archive                     
-jackson-core                        2.14.2                                     java-archive                     
+jackson-annotations                 2.16.1                                     java-archive                     
 jackson-core                        2.15.3                                     java-archive                     
-jackson-databind                    2.14.2                                     java-archive                     
+jackson-core                        2.16.1                                     java-archive                     
 jackson-databind                    2.15.3                                     java-archive                     
+jackson-databind                    2.16.1                                     java-archive                     
 jackson-dataformat-cbor             2.15.3                                     java-archive                     
 jackson-dataformat-xml              2.15.3                                     java-archive                     
-jackson-dataformat-yaml             2.14.2                                     java-archive                     
 jackson-dataformat-yaml             2.15.3                                     java-archive                     
+jackson-dataformat-yaml             2.16.1                                     java-archive                     
 jackson-datatype-jdk8               2.15.3                                     java-archive                     
 jackson-datatype-json-org           2.15.3                                     java-archive                     
 jackson-datatype-jsr310             2.15.3                                     java-archive                     
@@ -197,8 +196,7 @@ jna                                 5.14.0                                     j
 jq                                  1.6-r4                                     apk                              
 jquery3-api                         3.7.1-1                                    jenkins-plugin  (+1 duplicate)   
 jrt-fs                              17.0.10                                    java-archive                     
-json                                20220924                                   java-archive                     
-json                                20231013                                   java-archive                     
+json                                20231013                                   java-archive    (+1 duplicate)   
 json-lib                            2.4-jenkins-3                              java-archive                     
 jsr305                              3.0.2                                      java-archive                     
 junit                               1240.vf9529b_881428                        jenkins-plugin  (+1 duplicate)   
@@ -212,7 +210,7 @@ libc-utils                          0.7.2-r5                                   a
 libcrypto3                          3.1.4-r5                                   apk                              
 libcurl                             8.5.0-r0                                   apk                              
 libedit                             20221030.3.1-r1                            apk                              
-libexpat                            2.6.0-r0                                   apk                              
+libexpat                            2.6.2-r0                                   apk                              
 libffi                              3.4.4-r2                                   apk                              
 libfontenc                          1.1.7-r2                                   apk                              
 libidn2                             2.3.4-r1                                   apk                              
@@ -262,8 +260,8 @@ owasp-java-html-sanitizer           20220608.1                                 j
 p11-kit                             0.24.1-r2                                  apk                              
 p11-kit-trust                       0.24.1-r2                                  apk                              
 pcre2                               10.42-r1                                   apk                              
-plugin-management-cli               2.12.11                                    jenkins-plugin                   
-plugin-management-library           2.12.11                                    jenkins-plugin                   
+plugin-management-cli               2.12.15                                    jenkins-plugin                   
+plugin-management-library           2.12.15                                    jenkins-plugin                   
 plugin-util-api                     3.6.0                                      jenkins-plugin  (+1 duplicate)   
 procps-ng                           4.0.4-r0                                   apk                              
 readline                            8.2.1-r1                                   apk                              
@@ -280,8 +278,7 @@ slf4j-api                           2.0.11                                     j
 slf4j-api                           2.0.12                                     java-archive    (+1 duplicate)   
 slf4j-jdk14                         2.0.11                                     java-archive                     
 slf4j-jdk14                         2.0.12                                     java-archive    (+1 duplicate)   
-snakeyaml                           1.33                                       java-archive                     
-snakeyaml                           2.2                                        java-archive                     
+snakeyaml                           2.2                                        java-archive    (+1 duplicate)   
 snakeyaml-api                       2.2-111.vc6598e30cc65                      jenkins-plugin  (+1 duplicate)   
 spotbugs-annotations                4.8.3                                      java-archive                     
 spring-aop                          5.3.32                                     java-archive                     
