@@ -33,7 +33,7 @@ ca-certificates-bundle              20230506-r0                                a
 caffeine                            3.1.8                                      java-archive                     
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 checks-api                          2.0.2                                      jenkins-plugin  (+1 duplicate)   
-cli                                 2.449                                      java-archive                     
+cli                                 2.450                                      java-archive                     
 command-launcher                    107.v773860566e2e                          jenkins-plugin  (+1 duplicate)   
 command-line-arguments              (devel)                                    go-module                        
 commons-beanutils                   1.9.4                                      java-archive    (+1 duplicate)   
@@ -107,7 +107,7 @@ golang.org/x/text                   v0.14.0                                    g
 groovy-all                          2.4.21                                     java-archive                     
 groovy-sandbox                      1.33                                       java-archive                     
 gson                                2.8.9                                      java-archive                     
-guava                               33.0.0-jre                                 java-archive                     
+guava                               33.1.0-jre                                 java-archive                     
 guice                               6.0.0                                      java-archive                     
 hawtjni-runtime                     1.8                                        java-archive                     
 http2-common                        10.0.20                                    java-archive                     
@@ -174,10 +174,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.12                                     java-archive    (+1 duplicate)   
 jcommon                             1.0.23                                     java-archive                     
 jdk-tool                            73.vddf737284550                           jenkins-plugin  (+1 duplicate)   
-jenkins-core                        2.449                                      java-archive                     
+jenkins-core                        2.450                                      java-archive                     
 jenkins-plugin-manager                                                         java-archive                     
 jenkins-stapler-support             1.1                                        java-archive                     
-jenkins-war                         2.449                                      java-archive                     
+jenkins-war                         2.450                                      java-archive                     
 jetty-alpn-java-server              10.0.20                                    java-archive                     
 jetty-alpn-server                   10.0.20                                    java-archive                     
 jetty-http                          10.0.20                                    java-archive                     
@@ -281,15 +281,15 @@ slf4j-jdk14                         2.0.12                                     j
 snakeyaml                           2.2                                        java-archive    (+1 duplicate)   
 snakeyaml-api                       2.2-111.vc6598e30cc65                      jenkins-plugin  (+1 duplicate)   
 spotbugs-annotations                4.8.3                                      java-archive                     
-spring-aop                          5.3.32                                     java-archive                     
-spring-beans                        5.3.32                                     java-archive                     
-spring-context                      5.3.32                                     java-archive                     
-spring-core                         5.3.32                                     java-archive                     
-spring-expression                   5.3.32                                     java-archive                     
-spring-security-core                5.8.10                                     java-archive                     
-spring-security-crypto              5.8.10                                     java-archive                     
-spring-security-web                 5.8.10                                     java-archive                     
-spring-web                          5.3.32                                     java-archive                     
+spring-aop                          5.3.33                                     java-archive                     
+spring-beans                        5.3.33                                     java-archive                     
+spring-context                      5.3.33                                     java-archive                     
+spring-core                         5.3.33                                     java-archive                     
+spring-expression                   5.3.33                                     java-archive                     
+spring-security-core                5.8.11                                     java-archive                     
+spring-security-crypto              5.8.11                                     java-archive                     
+spring-security-web                 5.8.11                                     java-archive                     
+spring-web                          5.3.33                                     java-archive                     
 sshd                                3.312.v1c601b_c83b_0e                      java-archive    (+1 duplicate)   
 sshd-common                         2.11.0                                     java-archive    (+1 duplicate)   
 sshd-core                           2.11.0                                     java-archive    (+1 duplicate)   
@@ -331,9 +331,9 @@ websocket-core-server               10.0.20                                    j
 websocket-jetty-api                 10.0.20                                    java-archive                     
 websocket-jetty-common              10.0.20                                    java-archive                     
 websocket-jetty-server              10.0.20                                    java-archive                     
-websocket-jetty10                   2.449                                      java-archive                     
+websocket-jetty10                   2.450                                      java-archive                     
 websocket-servlet                   10.0.20                                    java-archive                     
-websocket-spi                       2.449                                      java-archive                     
+websocket-spi                       2.450                                      java-archive                     
 windows-package-checker             1.2                                        java-archive                     
 winp                                1.30                                       java-archive                     
 winstone                            6.18                                       java-archive                     
