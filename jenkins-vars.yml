@@ -3,7 +3,7 @@
 # jenkins variables
 project_name: docker-jenkins
 external_type: na
-custom_version_command: curl -sL https://api.github.com/repos/jenkinsci/jenkins/releases | jq -r '[.[] | select(.body | test("weekly releases", "i"))][0] | .tag_name'
+custom_version_command: curl -sL https://api.github.com/repos/jenkinsci/jenkins/releases | jq -r '.[] | select(.body | test("weekly releases", "i")) | .tag_name' | sed 's/jenkins-//g' | sort -V | tail -n 1 | awk '{print "jenkins-"$0}'
 release_type: stable
 release_tag: latest
 ig_branch: main

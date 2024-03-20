@@ -28,7 +28,12 @@ RUN \
   git lfs install && \
   echo "**** download jenkins ****" && \
   if [ -z ${JENKINS_VERSION} ]; then \
-    JENKINS_VERSION=$(curl -sL https://api.github.com/repos/jenkinsci/jenkins/releases/latest | jq -r '.tag_name'); \
+    JENKINS_VERSION=$(curl -sL https://api.github.com/repos/jenkinsci/jenkins/releases | \
+      jq -r '.[] | select(.body | test("weekly releases", "i")) | .tag_name' | \
+      sed 's/jenkins-//g' | \
+      sort -V | \
+      tail -n 1 | \
+      awk '{print "jenkins-"$0}'); \
   fi && \
   mkdir -p \
     /app/jenkins/ && \
