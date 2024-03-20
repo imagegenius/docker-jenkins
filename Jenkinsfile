@@ -108,7 +108,7 @@ pipeline {
       steps{
         script{
           env.EXT_RELEASE = sh(
-            script: ''' curl -sL https://api.github.com/repos/jenkinsci/jenkins/releases | jq -r '[.[] | select(.body | test("weekly releases", "i"))][0] | .tag_name' ''',
+            script: ''' curl -sL https://api.github.com/repos/jenkinsci/jenkins/releases | jq -r '.[] | select(.body | test("weekly releases", "i")) | .tag_name' | sed 's/jenkins-//g' | sort -V | tail -n 1 | awk '{print "jenkins-"$0}' ''',
             returnStdout: true).trim()
             env.RELEASE_LINK = 'custom_command'
         }
