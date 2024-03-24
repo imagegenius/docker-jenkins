@@ -28,8 +28,8 @@ bridge-method-annotation            1.29                                       j
 brotli-libs                         1.0.9-r14                                  apk                              
 busybox                             1.36.1-r5                                  apk                              
 busybox-binsh                       1.36.1-r5                                  apk                              
-ca-certificates                     20230506-r0                                apk                              
-ca-certificates-bundle              20230506-r0                                apk                              
+ca-certificates                     20240226-r0                                apk                              
+ca-certificates-bundle              20240226-r0                                apk                              
 caffeine                            3.1.8                                      java-archive                     
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 checks-api                          2.0.2                                      jenkins-plugin  (+1 duplicate)   
@@ -75,7 +75,7 @@ font-awesome-api                    6.4.2-1                                    j
 font-dejavu                         2.37-r5                                    apk                              
 fontconfig                          2.14.2-r3                                  apk                              
 freetype                            2.13.0-r5                                  apk                              
-giflib                              5.2.1-r4                                   apk                              
+giflib                              5.2.2-r0                                   apk                              
 git                                 2.40.1-r0                                  apk                              
 git-lfs                             3.3.0-r6                                   apk                              
 github.com/dpotapov/go-spnego       v0.0.0-20210315154721-298b63a54430         go-module                        
