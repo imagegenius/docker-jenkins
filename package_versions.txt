@@ -14,7 +14,7 @@ ant-launcher                        1.10.14                                    j
 antisamy-markup-formatter           162.v0e6ec0fcfcf6                          jenkins-plugin  (+1 duplicate)   
 antlr4-runtime                      4.13.1                                     java-archive                     
 apache-httpcomponents-client-4-api  4.5.14-208.v438351942757                   jenkins-plugin  (+1 duplicate)   
-apk-tools                           2.14.0-r2                                  apk                              
+apk-tools                           2.14.3-r1                                  apk                              
 args4j                              2.33                                       java-archive    (+2 duplicates)  
 asm                                 9.6                                        java-archive                     
 asm                                 9.7                                        java-archive                     
