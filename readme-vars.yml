@@ -52,5 +52,6 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "24.04.24:", desc: "rebase to alpine 3.19" }
   - { date: "06.05.23:", desc: "Add CLI variables." }
   - { date: "27.03.23:", desc: "Initial release." }
