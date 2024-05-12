@@ -38,6 +38,7 @@ ca-certificates                     20240226-r0                                a
 ca-certificates-bundle              20240226-r0                                apk                              
 caffeine                            3.1.8                                      java-archive                     
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
+catatonit                           0.2.0-r0                                   apk                              
 checks-api                          2.2.0                                      jenkins-plugin  (+1 duplicate)   
 cli                                 2.457                                      java-archive                     
 command-launcher                    107.v773860566e2e                          jenkins-plugin  (+1 duplicate)   
