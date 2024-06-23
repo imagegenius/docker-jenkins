@@ -30,8 +30,8 @@ bootstrap5-api                      5.3.3-1                                    j
 bouncycastle-api                    2.30.1.78.1-233.vfdcdeb_0a_08a_a_          jenkins-plugin  (+1 duplicate)   
 bridge-method-annotation            1.29                                       java-archive                     
 brotli-libs                         1.1.0-r1                                   apk                              
-busybox                             1.36.1-r18                                 apk                              
-busybox-binsh                       1.36.1-r18                                 apk                              
+busybox                             1.36.1-r19                                 apk                              
+busybox-binsh                       1.36.1-r19                                 apk                              
 byte-buddy                          1.14.9                                     java-archive                     
 c-ares                              1.27.0-r0                                  apk                              
 ca-certificates                     20240226-r0                                apk                              
@@ -310,7 +310,7 @@ spring-web                          5.3.37                                     j
 sshd                                3.330.vc866a_8389b_58                      java-archive    (+1 duplicate)   
 sshd-common                         2.12.1                                     java-archive    (+1 duplicate)   
 sshd-core                           2.12.1                                     java-archive    (+1 duplicate)   
-ssl_client                          1.36.1-r18                                 apk                              
+ssl_client                          1.36.1-r19                                 apk                              
 stapler                             1881.vd39f3ee5c629                         java-archive                     
 stapler-adjunct-codemirror          1.3                                        java-archive                     
 stapler-groovy                      1881.vd39f3ee5c629                         java-archive                     
