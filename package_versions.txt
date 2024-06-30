@@ -3,7 +3,7 @@ access-modifier-annotation          1.33                                       j
 alpine-baselayout                   3.4.3-r2                                   apk                              
 alpine-baselayout-data              3.4.3-r2                                   apk                              
 alpine-keys                         2.4-r1                                     apk                              
-alpine-release                      3.19.1-r0                                  apk                              
+alpine-release                      3.19.2-r0                                  apk                              
 alsa-lib                            1.2.10-r0                                  apk                              
 angus-activation                    2.0.2                                      java-archive                     
 angus-core                          2.0.3                                      java-archive                     
