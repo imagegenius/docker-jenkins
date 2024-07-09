@@ -40,7 +40,7 @@ caffeine                            3.1.8                                      j
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 catatonit                           0.2.0-r0                                   apk                              
 checks-api                          2.2.0                                      jenkins-plugin  (+1 duplicate)   
-cli                                 2.464                                      java-archive                     
+cli                                 2.466                                      java-archive                     
 command-launcher                    107.v773860566e2e                          jenkins-plugin  (+1 duplicate)   
 command-line-arguments              (devel)                                    go-module                        
 commons-beanutils                   1.9.4                                      java-archive    (+1 duplicate)   
@@ -188,10 +188,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.13                                     java-archive    (+1 duplicate)   
 jcommon                             1.0.23                                     java-archive                     
 jdk-tool                            73.vddf737284550                           jenkins-plugin  (+1 duplicate)   
-jenkins-core                        2.464                                      java-archive                     
+jenkins-core                        2.466                                      java-archive                     
 jenkins-plugin-manager                                                         java-archive                     
 jenkins-stapler-support             1.1                                        java-archive                     
-jenkins-war                         2.464                                      java-archive                     
+jenkins-war                         2.466                                      java-archive                     
 jetty-alpn-java-server              10.0.21                                    java-archive                     
 jetty-alpn-server                   10.0.21                                    java-archive                     
 jetty-http                          10.0.21                                    java-archive                     
@@ -297,7 +297,7 @@ slf4j-jdk14                         2.0.13                                     j
 smtp                                2.0.3                                      java-archive                     
 snakeyaml                           2.2                                        java-archive    (+1 duplicate)   
 snakeyaml-api                       2.2-111.vc6598e30cc65                      jenkins-plugin  (+1 duplicate)   
-spotbugs-annotations                4.8.5                                      java-archive                     
+spotbugs-annotations                4.8.6                                      java-archive                     
 spring-aop                          5.3.37                                     java-archive                     
 spring-beans                        5.3.37                                     java-archive                     
 spring-context                      5.3.37                                     java-archive                     
@@ -317,7 +317,7 @@ stapler-groovy                      1881.vd39f3ee5c629                         j
 stapler-jelly                       1881.vd39f3ee5c629                         java-archive                     
 stax2-api                           4.2.2                                      java-archive                     
 stdlib                              go1.21.10                                  go-module                        
-structs                             337.v1b_04ea_4df7c8                        jenkins-plugin  (+1 duplicate)   
+structs                             338.v848422169819                          jenkins-plugin  (+1 duplicate)   
 support-log-formatter               1.2                                        java-archive                     
 symbol-annotation                   1.24                                       java-archive                     
 task-reactor                        1.8                                        java-archive                     
@@ -343,12 +343,12 @@ websocket-core-server               10.0.21                                    j
 websocket-jetty-api                 10.0.21                                    java-archive                     
 websocket-jetty-common              10.0.21                                    java-archive                     
 websocket-jetty-server              10.0.21                                    java-archive                     
-websocket-jetty10                   2.464                                      java-archive                     
+websocket-jetty10                   2.466                                      java-archive                     
 websocket-servlet                   10.0.21                                    java-archive                     
-websocket-spi                       2.464                                      java-archive                     
+websocket-spi                       2.466                                      java-archive                     
 windows-package-checker             1.2                                        java-archive                     
 winp                                1.30                                       java-archive                     
-winstone                            6.20                                       java-archive                     
+winstone                            6.21                                       java-archive                     
 woodstox-core                       6.6.1                                      java-archive                     
 workflow-api                        1316.v33eb_726c50b_a_                      jenkins-plugin  (+1 duplicate)   
 workflow-step-api                   657.v03b_e8115821b_                        jenkins-plugin  (+1 duplicate)   
