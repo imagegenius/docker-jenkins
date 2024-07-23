@@ -40,12 +40,12 @@ caffeine                            3.1.8                                      j
 caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 catatonit                           0.2.0-r0                                   apk                              
 checks-api                          2.2.0                                      jenkins-plugin  (+1 duplicate)   
-cli                                 2.468                                      java-archive                     
+cli                                 2.469                                      java-archive                     
 command-launcher                    107.v773860566e2e                          jenkins-plugin  (+1 duplicate)   
 command-line-arguments              v3.5.1                                     go-module                        
 commons-beanutils                   1.9.4                                      java-archive    (+1 duplicate)   
 commons-codec                       1.16.0                                     java-archive                     
-commons-codec                       1.17.0                                     java-archive                     
+commons-codec                       1.17.1                                     java-archive                     
 commons-collections                 3.2.2                                      java-archive    (+1 duplicate)   
 commons-compress                    1.26.1                                     java-archive                     
 commons-digester                    2.1                                        java-archive                     
@@ -190,10 +190,10 @@ jcip-annotations                    1.0                                        j
 jcl-over-slf4j                      2.0.13                                     java-archive    (+1 duplicate)   
 jcommon                             1.0.23                                     java-archive                     
 jdk-tool                            73.vddf737284550                           jenkins-plugin  (+1 duplicate)   
-jenkins-core                        2.468                                      java-archive                     
+jenkins-core                        2.469                                      java-archive                     
 jenkins-plugin-manager                                                         java-archive                     
 jenkins-stapler-support             1.1                                        java-archive                     
-jenkins-war                         2.468                                      java-archive                     
+jenkins-war                         2.469                                      java-archive                     
 jetty-alpn-java-server              10.0.21                                    java-archive                     
 jetty-alpn-server                   10.0.21                                    java-archive                     
 jetty-http                          10.0.21                                    java-archive                     
@@ -347,14 +347,14 @@ websocket-core-server               10.0.21                                    j
 websocket-jetty-api                 10.0.21                                    java-archive                     
 websocket-jetty-common              10.0.21                                    java-archive                     
 websocket-jetty-server              10.0.21                                    java-archive                     
-websocket-jetty10                   2.468                                      java-archive                     
+websocket-jetty10                   2.469                                      java-archive                     
 websocket-servlet                   10.0.21                                    java-archive                     
-websocket-spi                       2.468                                      java-archive                     
+websocket-spi                       2.469                                      java-archive                     
 windows-package-checker             1.2                                        java-archive                     
 winp                                1.30                                       java-archive                     
 winstone                            6.21                                       java-archive                     
 woodstox-core                       6.6.1                                      java-archive                     
-workflow-api                        1316.v33eb_726c50b_a_                      jenkins-plugin  (+1 duplicate)   
+workflow-api                        1322.v857eeeea_9902                        jenkins-plugin  (+1 duplicate)   
 workflow-step-api                   678.v3ee58b_469476                         jenkins-plugin  (+1 duplicate)   
 workflow-support                    920.v59f71ce16f04                          jenkins-plugin  (+1 duplicate)   
 xpp3                                1.1.4c                                     java-archive                     
