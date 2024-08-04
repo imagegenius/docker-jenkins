@@ -3,7 +3,7 @@ access-modifier-annotation          1.33                                       j
 alpine-baselayout                   3.6.5-r0                                   apk                              
 alpine-baselayout-data              3.6.5-r0                                   apk                              
 alpine-keys                         2.4-r1                                     apk                              
-alpine-release                      3.20.1-r0                                  apk                              
+alpine-release                      3.20.2-r0                                  apk                              
 alsa-lib                            1.2.11-r0                                  apk                              
 angus-activation                    2.0.2                                      java-archive                     
 angus-core                          2.0.3                                      java-archive                     
@@ -74,7 +74,7 @@ coreutils-env                       9.5-r1                                     a
 coreutils-fmt                       9.5-r1                                     apk                              
 coreutils-sha512sum                 9.5-r1                                     apk                              
 crypto-util                         1.9                                        java-archive                     
-curl                                8.8.0-r0                                   apk                              
+curl                                8.9.0-r0                                   apk                              
 display-url-api                     2.204.vf6fddd8a_8b_e9                      jenkins-plugin  (+1 duplicate)   
 dom4j                               2.1.4                                      java-archive                     
 echarts-api                         5.5.0-1                                    jenkins-plugin  (+1 duplicate)   
@@ -229,7 +229,7 @@ libattr                             2.5.2-r0                                   a
 libbsd                              0.12.2-r0                                  apk                              
 libbz2                              1.0.8-r6                                   apk                              
 libcrypto3                          3.3.1-r3                                   apk                              
-libcurl                             8.8.0-r0                                   apk                              
+libcurl                             8.9.0-r0                                   apk                              
 libedit                             20240517.3.1-r0                            apk                              
 libexpat                            2.6.2-r0                                   apk                              
 libffi                              3.4.6-r0                                   apk                              
