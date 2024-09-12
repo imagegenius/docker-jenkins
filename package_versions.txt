@@ -40,8 +40,8 @@ ca-certificates-bundle                20240705-r0                               
 caffeine                              3.1.8                                      java-archive                     
 caffeine-api                          3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 catatonit                             0.2.0-r0                                   apk                              
-checks-api                            2.2.0                                      jenkins-plugin  (+1 duplicate)   
-cli                                   2.475                                      java-archive                     
+checks-api                            2.2.1                                      jenkins-plugin  (+1 duplicate)   
+cli                                   2.476                                      java-archive                     
 command-launcher                      115.vd8b_301cc15d0                         jenkins-plugin  (+1 duplicate)   
 commons-beanutils                     1.9.4                                      java-archive    (+1 duplicate)   
 commons-codec                         1.16.0                                     java-archive                     
@@ -85,7 +85,7 @@ error_prone_annotations               2.18.0                                    
 failureaccess                         1.0.2                                      java-archive                     
 findutils                             4.9.0-r5                                   apk                              
 fluent-hc                             4.5.14                                     java-archive                     
-font-awesome-api                      6.6.0-1                                    jenkins-plugin  (+1 duplicate)   
+font-awesome-api                      6.6.0-2                                    jenkins-plugin  (+1 duplicate)   
 font-dejavu                           2.37-r5                                    apk                              
 fontconfig                            2.15.0-r1                                  apk                              
 freetype                              2.13.2-r0                                  apk                              
@@ -188,35 +188,35 @@ jcip-annotations                      1.0                                       
 jcl-over-slf4j                        2.0.16                                     java-archive    (+1 duplicate)   
 jcommon                               1.0.23                                     java-archive                     
 jdk-tool                              80.v8a_dee33ed6f0                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                          2.475                                      java-archive                     
+jenkins-core                          2.476                                      java-archive                     
 jenkins-plugin-manager                                                           java-archive                     
 jenkins-stapler-support               1.1                                        java-archive                     
-jenkins-war                           2.475                                      java-archive                     
-jetty-alpn-java-server                12.0.12                                    java-archive                     
-jetty-alpn-server                     12.0.12                                    java-archive                     
-jetty-ee                              12.0.12                                    java-archive                     
-jetty-ee9-nested                      12.0.12                                    java-archive                     
-jetty-ee9-security                    12.0.12                                    java-archive                     
-jetty-ee9-servlet                     12.0.12                                    java-archive                     
-jetty-ee9-webapp                      12.0.12                                    java-archive                     
-jetty-ee9-websocket-jetty-api         12.0.12                                    java-archive                     
-jetty-ee9-websocket-jetty-common      12.0.12                                    java-archive                     
-jetty-ee9-websocket-jetty-server      12.0.12                                    java-archive                     
-jetty-ee9-websocket-servlet           12.0.12                                    java-archive                     
-jetty-http                            12.0.12                                    java-archive                     
-jetty-http2-common                    12.0.12                                    java-archive                     
-jetty-http2-hpack                     12.0.12                                    java-archive                     
-jetty-http2-server                    12.0.12                                    java-archive                     
-jetty-io                              12.0.12                                    java-archive                     
-jetty-jmx                             12.0.12                                    java-archive                     
-jetty-security                        12.0.12                                    java-archive                     
-jetty-server                          12.0.12                                    java-archive                     
-jetty-session                         12.0.12                                    java-archive                     
-jetty-unixdomain-server               12.0.12                                    java-archive                     
-jetty-util                            12.0.12                                    java-archive                     
-jetty-websocket-core-common           12.0.12                                    java-archive                     
-jetty-websocket-core-server           12.0.12                                    java-archive                     
-jetty-xml                             12.0.12                                    java-archive                     
+jenkins-war                           2.476                                      java-archive                     
+jetty-alpn-java-server                12.0.13                                    java-archive                     
+jetty-alpn-server                     12.0.13                                    java-archive                     
+jetty-ee                              12.0.13                                    java-archive                     
+jetty-ee9-nested                      12.0.13                                    java-archive                     
+jetty-ee9-security                    12.0.13                                    java-archive                     
+jetty-ee9-servlet                     12.0.13                                    java-archive                     
+jetty-ee9-webapp                      12.0.13                                    java-archive                     
+jetty-ee9-websocket-jetty-api         12.0.13                                    java-archive                     
+jetty-ee9-websocket-jetty-common      12.0.13                                    java-archive                     
+jetty-ee9-websocket-jetty-server      12.0.13                                    java-archive                     
+jetty-ee9-websocket-servlet           12.0.13                                    java-archive                     
+jetty-http                            12.0.13                                    java-archive                     
+jetty-http2-common                    12.0.13                                    java-archive                     
+jetty-http2-hpack                     12.0.13                                    java-archive                     
+jetty-http2-server                    12.0.13                                    java-archive                     
+jetty-io                              12.0.13                                    java-archive                     
+jetty-jmx                             12.0.13                                    java-archive                     
+jetty-security                        12.0.13                                    java-archive                     
+jetty-server                          12.0.13                                    java-archive                     
+jetty-session                         12.0.13                                    java-archive                     
+jetty-unixdomain-server               12.0.13                                    java-archive                     
+jetty-util                            12.0.13                                    java-archive                     
+jetty-websocket-core-common           12.0.13                                    java-archive                     
+jetty-websocket-core-server           12.0.13                                    java-archive                     
+jetty-xml                             12.0.13                                    java-archive                     
 jfreechart                            1.0.19                                     java-archive                     
 jline                                 2.14.6                                     java-archive                     
 jna                                   5.14.0                                     java-archive                     
@@ -354,11 +354,11 @@ tzdata                                2024a-r1                                  
 unzip                                 6.0-r14                                    apk                              
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive    (+1 duplicate)   
-websocket-jetty12-ee9                 2.475                                      java-archive                     
-websocket-spi                         2.475                                      java-archive                     
+websocket-jetty12-ee9                 2.476                                      java-archive                     
+websocket-spi                         2.476                                      java-archive                     
 windows-package-checker               1.2                                        java-archive                     
 winp                                  1.31                                       java-archive                     
-winstone                              8.0                                        java-archive                     
+winstone                              8.1                                        java-archive                     
 woodstox-core                         6.6.1                                      java-archive                     
 workflow-api                          1336.vee415d95c521                         jenkins-plugin  (+1 duplicate)   
 workflow-step-api                     678.v3ee58b_469476                         jenkins-plugin  (+1 duplicate)   
