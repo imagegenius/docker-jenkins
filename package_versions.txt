@@ -41,7 +41,7 @@ caffeine                              3.1.8                                     
 caffeine-api                          3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 catatonit                             0.2.0-r0                                   apk                              
 checks-api                            2.2.1                                      jenkins-plugin  (+1 duplicate)   
-cli                                   2.477                                      java-archive                     
+cli                                   2.478                                      java-archive                     
 command-launcher                      115.vd8b_301cc15d0                         jenkins-plugin  (+1 duplicate)   
 commons-beanutils                     1.9.4                                      java-archive    (+1 duplicate)   
 commons-codec                         1.16.0                                     java-archive                     
@@ -53,7 +53,7 @@ commons-discovery                     0.5                                       
 commons-fileupload2-core              2.0.0-M2                                   java-archive                     
 commons-fileupload2-jakarta-servlet5  2.0.0-M2                                   java-archive                     
 commons-io                            2.15.1                                     java-archive                     
-commons-io                            2.16.1                                     java-archive    (+1 duplicate)   
+commons-io                            2.17.0                                     java-archive    (+1 duplicate)   
 commons-jelly                         1.1-jenkins-20240903                       java-archive                     
 commons-jelly-tags-define             1.1-jenkins-20240903                       java-archive                     
 commons-jelly-tags-fmt                1.0                                        java-archive                     
@@ -188,10 +188,10 @@ jcip-annotations                      1.0                                       
 jcl-over-slf4j                        2.0.16                                     java-archive    (+1 duplicate)   
 jcommon                               1.0.23                                     java-archive                     
 jdk-tool                              80.v8a_dee33ed6f0                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                          2.477                                      java-archive                     
-jenkins-plugin-manager                                                           java-archive                     
+jenkins-core                          2.478                                      java-archive                     
+jenkins-plugin-manager                UNKNOWN                                    java-archive                     
 jenkins-stapler-support               1.1                                        java-archive                     
-jenkins-war                           2.477                                      java-archive                     
+jenkins-war                           2.478                                      java-archive                     
 jetty-alpn-java-server                12.0.13                                    java-archive                     
 jetty-alpn-server                     12.0.13                                    java-archive                     
 jetty-ee                              12.0.13                                    java-archive                     
@@ -293,7 +293,7 @@ parallel-collectors                   2.6.1                                     
 pcre2                                 10.43-r0                                   apk                              
 plugin-management-cli                 2.12.15                                    jenkins-plugin                   
 plugin-management-library             2.12.15                                    jenkins-plugin                   
-plugin-util-api                       4.1.0                                      jenkins-plugin  (+1 duplicate)   
+plugin-util-api                       5.1.0                                      jenkins-plugin  (+1 duplicate)   
 pop3                                  2.0.3                                      java-archive                     
 procps-ng                             4.0.4-r0                                   apk                              
 readline                              8.2.10-r0                                  apk                              
@@ -354,15 +354,15 @@ tzdata                                2024b-r0                                  
 unzip                                 6.0-r14                                    apk                              
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive    (+1 duplicate)   
-websocket-jetty12-ee9                 2.477                                      java-archive                     
-websocket-spi                         2.477                                      java-archive                     
+websocket-jetty12-ee9                 2.478                                      java-archive                     
+websocket-spi                         2.478                                      java-archive                     
 windows-package-checker               1.2                                        java-archive                     
 winp                                  1.31                                       java-archive                     
 winstone                              8.1                                        java-archive                     
 woodstox-core                         6.6.1                                      java-archive                     
 workflow-api                          1336.vee415d95c521                         jenkins-plugin  (+1 duplicate)   
 workflow-step-api                     678.v3ee58b_469476                         jenkins-plugin  (+1 duplicate)   
-workflow-support                      920.v59f71ce16f04                          jenkins-plugin  (+1 duplicate)   
+workflow-support                      926.v9f4f9b_b_98c19                        jenkins-plugin  (+1 duplicate)   
 xpp3                                  1.1.4c                                     java-archive                     
 xsdlib                                2022.7                                     java-archive                     
 xstream                               1.4.20                                     java-archive                     
