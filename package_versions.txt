@@ -72,7 +72,7 @@ coreutils-env                         9.5-r1                                    
 coreutils-fmt                         9.5-r1                                     apk                              
 coreutils-sha512sum                   9.5-r1                                     apk                              
 crypto-util                           1.10                                       java-archive                     
-curl                                  8.11.0-r2                                  apk                              
+curl                                  8.11.1-r0                                  apk                              
 display-url-api                       2.209.v582ed814ff2f                        jenkins-plugin  (+1 duplicate)   
 dom4j                                 2.1.4                                      java-archive                     
 echarts-api                           5.5.1-4                                    jenkins-plugin  (+1 duplicate)   
@@ -236,7 +236,7 @@ libattr                               2.5.2-r0                                  
 libbsd                                0.12.2-r0                                  apk                              
 libbz2                                1.0.8-r6                                   apk                              
 libcrypto3                            3.3.2-r1                                   apk                              
-libcurl                               8.11.0-r2                                  apk                              
+libcurl                               8.11.1-r0                                  apk                              
 libedit                               20240517.3.1-r0                            apk                              
 libexpat                              2.6.4-r0                                   apk                              
 libffi                                3.4.6-r0                                   apk                              
