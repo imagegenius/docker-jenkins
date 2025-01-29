@@ -41,8 +41,8 @@ caffeine                              3.1.8                                     
 caffeine-api                          3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
 catatonit                             0.2.0-r0                                   apk                              
 checks-api                            2.2.1                                      jenkins-plugin  (+1 duplicate)   
-cli                                   2.494                                      java-archive                     
-command-launcher                      116.vd85919c54a_d6                         jenkins-plugin  (+1 duplicate)   
+cli                                   2.495                                      java-archive                     
+command-launcher                      118.v72741845c17a_                         jenkins-plugin  (+1 duplicate)   
 commons-beanutils                     1.9.4                                      java-archive    (+1 duplicate)   
 commons-codec                         1.16.0                                     java-archive                     
 commons-codec                         1.17.2                                     java-archive                     
@@ -77,7 +77,6 @@ dom4j                                 2.1.4                                     
 echarts-api                           5.5.1-5                                    jenkins-plugin  (+1 duplicate)   
 eddsa                                 0.3.0                                      java-archive    (+1 duplicate)   
 eddsa-api                             0.3.0-4.v84c6f0f4969e                      jenkins-plugin  (+1 duplicate)   
-embedded_su4j                         1.1                                        java-archive                     
 encodings                             1.0.7-r1                                   apk                              
 error_prone_annotations               2.18.0                                     java-archive                     
 failureaccess                         1.0.2                                      java-archive                     
@@ -184,11 +183,10 @@ jcip-annotations                      1.0                                       
 jcl-over-slf4j                        2.0.16                                     java-archive    (+1 duplicate)   
 jcl-over-slf4j                        2.0.9                                      java-archive                     
 jcommon                               1.0.23                                     java-archive                     
-jdk-tool                              80.v8a_dee33ed6f0                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                          2.494                                      java-archive                     
+jdk-tool                              83.v417146707a_3d                          jenkins-plugin  (+1 duplicate)   
+jenkins-core                          2.495                                      java-archive                     
 jenkins-plugin-manager                UNKNOWN                                    java-archive                     
-jenkins-stapler-support               1.1                                        java-archive                     
-jenkins-war                           2.494                                      java-archive                     
+jenkins-war                           2.495                                      java-archive                     
 jetty-alpn-java-server                12.0.16                                    java-archive                     
 jetty-alpn-server                     12.0.16                                    java-archive                     
 jetty-ee                              12.0.16                                    java-archive                     
@@ -266,8 +264,8 @@ matrix-auth                           3.2.3                                     
 matrix-project                        845.vffd7fa_f27555                         jenkins-plugin  (+1 duplicate)   
 memory-monitor                        1.13                                       java-archive                     
 mina-core                             2.0.27                                     java-archive                     
-mina-sshd-api-common                  2.14.0-138.v6341ee58e1df                   jenkins-plugin  (+1 duplicate)   
-mina-sshd-api-core                    2.14.0-138.v6341ee58e1df                   jenkins-plugin  (+1 duplicate)   
+mina-sshd-api-common                  2.14.0-143.v2b_362fc39576                  jenkins-plugin  (+1 duplicate)   
+mina-sshd-api-core                    2.14.0-143.v2b_362fc39576                  jenkins-plugin  (+1 duplicate)   
 mkfontscale                           1.2.2-r6                                   apk                              
 musl                                  1.2.5-r0                                   apk                              
 musl-locales                          0.1.0-r1                                   apk                              
@@ -354,15 +352,15 @@ unzip                                 6.0-r14                                   
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive                     
 version-number                        1.12                                       java-archive                     
-websocket-jetty12-ee9                 2.494                                      java-archive                     
-websocket-spi                         2.494                                      java-archive                     
+websocket-jetty12-ee9                 2.495                                      java-archive                     
+websocket-spi                         2.495                                      java-archive                     
 windows-package-checker               1.2                                        java-archive                     
 winp                                  1.31                                       java-archive                     
 winstone                              8.4                                        java-archive                     
 woodstox-core                         6.6.1                                      java-archive                     
-workflow-api                          1358.vfb_5780da_64cb_                      jenkins-plugin  (+1 duplicate)   
-workflow-step-api                     678.v3ee58b_469476                         jenkins-plugin  (+1 duplicate)   
-workflow-support                      943.v8b_0d01a_7b_a_08                      jenkins-plugin  (+1 duplicate)   
+workflow-api                          1363.v03f731255494                         jenkins-plugin  (+1 duplicate)   
+workflow-step-api                     686.v603d058a_e148                         jenkins-plugin  (+1 duplicate)   
+workflow-support                      944.v5a_859593b_98a_                       jenkins-plugin  (+1 duplicate)   
 xpp3                                  1.1.4c                                     java-archive                     
 xsdlib                                2022.7                                     java-archive                     
 xstream                               1.4.21                                     java-archive                     
