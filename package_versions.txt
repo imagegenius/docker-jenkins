@@ -11,7 +11,7 @@ angus-mail                            2.0.3                                     
 annotation-indexer                    1.18                                       java-archive    (+1 duplicate)   
 ant                                   1.10.15                                    java-archive                     
 ant-launcher                          1.10.15                                    java-archive                     
-antisamy-markup-formatter             162.v0e6ec0fcfcf6                          jenkins-plugin  (+1 duplicate)   
+antisamy-markup-formatter             173.v680e3a_b_69ff3                        jenkins-plugin  (+1 duplicate)   
 antlr4-runtime                        4.13.2                                     java-archive                     
 apache-httpcomponents-client-4-api    4.5.14-269.vfa_2321039a_83                 jenkins-plugin  (+1 duplicate)   
 apk-tools                             2.14.4-r1                                  apk                              
@@ -27,7 +27,7 @@ bash                                  5.2.26-r0                                 
 bcpkix-jdk18on                        1.80                                       java-archive                     
 bcprov-jdk18on                        1.80                                       java-archive                     
 bcutil-jdk18on                        1.80                                       java-archive                     
-bootstrap5-api                        5.3.3-2                                    jenkins-plugin  (+1 duplicate)   
+bootstrap5-api                        5.3.3-3                                    jenkins-plugin  (+1 duplicate)   
 bouncycastle-api                      2.30.1.80-256.vf98926042a_9b_              jenkins-plugin  (+1 duplicate)   
 bridge-method-annotation              1.30                                       java-archive                     
 brotli-libs                           1.1.0-r2                                   apk                              
@@ -40,10 +40,11 @@ ca-certificates-bundle                20241121-r1                               
 caffeine                              3.2.0                                      java-archive                     
 caffeine-api                          3.2.0-161.v691ef352cee1                    jenkins-plugin  (+1 duplicate)   
 catatonit                             0.2.0-r0                                   apk                              
-checks-api                            2.2.2                                      jenkins-plugin  (+1 duplicate)   
-cli                                   2.498                                      java-archive                     
+checks-api                            2.2.3                                      jenkins-plugin  (+1 duplicate)   
+cli                                   2.499                                      java-archive                     
 command-launcher                      118.v72741845c17a_                         jenkins-plugin  (+1 duplicate)   
-commons-beanutils                     1.9.4                                      java-archive    (+1 duplicate)   
+commons-beanutils                     1.10.1                                     java-archive                     
+commons-beanutils                     1.9.4                                      java-archive                     
 commons-codec                         1.16.0                                     java-archive                     
 commons-codec                         1.18.0                                     java-archive                     
 commons-collections                   3.2.2                                      java-archive    (+1 duplicate)   
@@ -74,15 +75,15 @@ crypto-util                           1.10                                      
 curl                                  8.12.1-r0                                  apk                              
 display-url-api                       2.209.v582ed814ff2f                        jenkins-plugin  (+1 duplicate)   
 dom4j                                 2.1.4                                      java-archive                     
-echarts-api                           5.5.1-5                                    jenkins-plugin  (+1 duplicate)   
+echarts-api                           5.5.1-6                                    jenkins-plugin  (+1 duplicate)   
 eddsa                                 0.3.0                                      java-archive    (+1 duplicate)   
-eddsa-api                             0.3.0-4.v84c6f0f4969e                      jenkins-plugin  (+1 duplicate)   
+eddsa-api                             0.3.0-13.v7cb_69ed68f00                    jenkins-plugin  (+1 duplicate)   
 encodings                             1.0.7-r1                                   apk                              
-error_prone_annotations               2.18.0                                     java-archive                     
+error_prone_annotations               2.22.0                                     java-archive                     
 failureaccess                         1.0.2                                      java-archive                     
 findutils                             4.9.0-r5                                   apk                              
 fluent-hc                             4.5.14                                     java-archive                     
-font-awesome-api                      6.6.0-2                                    jenkins-plugin  (+1 duplicate)   
+font-awesome-api                      6.7.2-1                                    jenkins-plugin  (+1 duplicate)   
 font-dejavu                           2.37-r5                                    apk                              
 fontconfig                            2.15.0-r1                                  apk                              
 freetype                              2.13.2-r0                                  apk                              
@@ -134,7 +135,7 @@ httpcore-nio                          4.4.16                                    
 httpmime                              4.5.14                                     java-archive                     
 imap                                  2.0.3                                      java-archive                     
 instance-identity                     201.vd2a_b_5a_468a_a_6                     java-archive    (+1 duplicate)   
-ionicons-api                          74.v93d5eb_813d5f                          jenkins-plugin  (+1 duplicate)   
+ionicons-api                          82.v0597178874e1                           jenkins-plugin  (+1 duplicate)   
 istack-commons-runtime                3.0.12                                     java-archive                     
 jackson-annotations                   2.16.1                                     java-archive                     
 jackson-annotations                   2.17.0                                     java-archive                     
@@ -143,6 +144,7 @@ jackson-core                          2.17.0                                    
 jackson-databind                      2.16.1                                     java-archive                     
 jackson-databind                      2.17.0                                     java-archive                     
 jackson-dataformat-cbor               2.17.0                                     java-archive                     
+jackson-dataformat-toml               2.17.0                                     java-archive                     
 jackson-dataformat-xml                2.17.0                                     java-archive                     
 jackson-dataformat-yaml               2.16.1                                     java-archive                     
 jackson-dataformat-yaml               2.17.0                                     java-archive                     
@@ -151,9 +153,9 @@ jackson-datatype-json-org             2.17.0                                    
 jackson-datatype-jsr310               2.17.0                                     java-archive                     
 jackson-module-jaxb-annotations       2.17.0                                     java-archive                     
 jackson-module-parameter-names        2.17.0                                     java-archive                     
-jackson2-api                          2.17.0-386.vcb_b_037da_0d62                jenkins-plugin  (+1 duplicate)   
-jakarta-activation-api                2.1.3-1                                    jenkins-plugin  (+1 duplicate)   
-jakarta-mail-api                      2.1.3-1                                    jenkins-plugin  (+1 duplicate)   
+jackson2-api                          2.17.0-389.va_5c7e45cd806                  jenkins-plugin  (+1 duplicate)   
+jakarta-activation-api                2.1.3-2                                    jenkins-plugin  (+1 duplicate)   
+jakarta-mail-api                      2.1.3-2                                    jenkins-plugin  (+1 duplicate)   
 jakarta.activation-api                2.1.3                                      java-archive                     
 jakarta.annotation-api                3.0.0                                      java-archive                     
 jakarta.inject-api                    2.0.1                                      java-archive                     
@@ -165,8 +167,8 @@ jansi                                 1.11                                      
 jansi-native                          1.5                                        java-archive                     
 java-cacerts                          1.0-r1                                     apk                              
 java-common                           0.5-r0                                     apk                              
-javax-activation-api                  1.2.0-7                                    jenkins-plugin  (+1 duplicate)   
-javax-mail-api                        1.6.2-10                                   jenkins-plugin  (+1 duplicate)   
+javax-activation-api                  1.2.0-8                                    jenkins-plugin  (+1 duplicate)   
+javax-mail-api                        1.6.2-11                                   jenkins-plugin  (+1 duplicate)   
 javax.activation                      1.2.0                                      java-archive                     
 javax.annotation-api                  1.3.2                                      java-archive                     
 javax.mail                            1.6.2                                      java-archive                     
@@ -175,8 +177,7 @@ jaxb-api                              2.3.1                                     
 jaxb-impl                             2.3.9                                      java-archive                     
 jaxb-runtime                          2.3.9                                      java-archive                     
 jaxen                                 2.0.0                                      java-archive                     
-jbcrypt                               1.0.0                                      java-archive                     
-jbcrypt                               1.0.2                                      java-archive                     
+jbcrypt                               1.0.2                                      java-archive    (+1 duplicate)   
 jboss-marshalling                     2.2.2.Final                                java-archive                     
 jboss-marshalling-river               2.2.2.Final                                java-archive                     
 jcip-annotations                      1.0                                        java-archive                     
@@ -184,9 +185,9 @@ jcl-over-slf4j                        2.0.16                                    
 jcl-over-slf4j                        2.0.9                                      java-archive                     
 jcommon                               1.0.23                                     java-archive                     
 jdk-tool                              83.v417146707a_3d                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                          2.498                                      java-archive                     
+jenkins-core                          2.499                                      java-archive                     
 jenkins-plugin-manager                UNKNOWN                                    java-archive                     
-jenkins-war                           2.498                                      java-archive                     
+jenkins-war                           2.499                                      java-archive                     
 jetty-alpn-java-server                12.0.16                                    java-archive                     
 jetty-alpn-server                     12.0.16                                    java-archive                     
 jetty-ee                              12.0.16                                    java-archive                     
@@ -216,14 +217,14 @@ jfreechart                            1.0.19                                    
 jline                                 2.14.6                                     java-archive                     
 jna                                   5.16.0                                     java-archive                     
 jq                                    1.7.1-r0                                   apk                              
-jquery3-api                           3.7.1-2                                    jenkins-plugin  (+1 duplicate)   
+jquery3-api                           3.7.1-3                                    jenkins-plugin  (+1 duplicate)   
 jrt-fs                                17.0.14                                    java-archive                     
 json                                  20231013                                   java-archive                     
 json                                  20250107                                   java-archive                     
 json-api                              20250107-125.v28b_a_ffa_eb_f01             jenkins-plugin  (+1 duplicate)   
 json-lib                              2.4-jenkins-8                              java-archive                     
 jsr305                                3.0.2                                      java-archive                     
-junit                                 1314.vd966e9a_88895                        jenkins-plugin  (+1 duplicate)   
+junit                                 1317.v5b_35d792b_06a_                      jenkins-plugin  (+1 duplicate)   
 lcms2                                 2.16-r0                                    apk                              
 libacl                                2.3.2-r0                                   apk                              
 libattr                               2.5.2-r0                                   apk                              
@@ -288,7 +289,7 @@ parallel-collectors                   2.6.1                                     
 pcre2                                 10.43-r0                                   apk                              
 plugin-management-cli                 2.12.15                                    jenkins-plugin                   
 plugin-management-library             2.12.15                                    jenkins-plugin                   
-plugin-util-api                       5.1.0                                      jenkins-plugin  (+1 duplicate)   
+plugin-util-api                       6.0.0                                      jenkins-plugin  (+1 duplicate)   
 pop3                                  2.0.3                                      java-archive                     
 procps-ng                             4.0.4-r0                                   apk                              
 readline                              8.2.10-r0                                  apk                              
@@ -314,31 +315,33 @@ spring-beans                          6.2.3                                     
 spring-context                        6.2.3                                      java-archive                     
 spring-core                           6.2.3                                      java-archive                     
 spring-expression                     6.2.3                                      java-archive                     
-spring-security-core                  6.4.2                                      java-archive                     
-spring-security-crypto                6.4.2                                      java-archive                     
-spring-security-web                   6.4.2                                      java-archive                     
+spring-security-core                  6.4.3                                      java-archive                     
+spring-security-crypto                6.4.3                                      java-archive                     
+spring-security-web                   6.4.3                                      java-archive                     
 spring-web                            6.2.3                                      java-archive                     
 sshd                                  3.353.v2b_d33c46e970                       java-archive    (+1 duplicate)   
-sshd-common                           2.14.0                                     java-archive    (+1 duplicate)   
-sshd-core                             2.14.0                                     java-archive    (+1 duplicate)   
+sshd-common                           2.14.0                                     java-archive                     
+sshd-common                           2.15.0                                     java-archive                     
+sshd-core                             2.14.0                                     java-archive                     
+sshd-core                             2.15.0                                     java-archive                     
 sshd-mina                             2.14.0                                     java-archive                     
 ssl_client                            1.36.1-r29                                 apk                              
-stapler                               1948.v0f99403fe86a_                        java-archive                     
+stapler                               1955.vdb_2736b_480e3                       java-archive                     
 stapler-adjunct-codemirror            1.3                                        java-archive                     
-stapler-groovy                        1948.v0f99403fe86a_                        java-archive                     
-stapler-jelly                         1948.v0f99403fe86a_                        java-archive                     
+stapler-groovy                        1955.vdb_2736b_480e3                       java-archive                     
+stapler-jelly                         1955.vdb_2736b_480e3                       java-archive                     
 stax2-api                             4.2.2                                      java-archive                     
 stdlib                                go1.22.5                                   go-module                        
-structs                               338.v848422169819                          jenkins-plugin  (+1 duplicate)   
+structs                               343.vdcf37b_a_c81d5                        jenkins-plugin  (+1 duplicate)   
 support-log-formatter                 1.3                                        java-archive                     
 symbol-annotation                     1.25                                       java-archive                     
 task-reactor                          1.9                                        java-archive                     
 tiger-types                           2.2                                        java-archive                     
-tink                                  1.10.0                                     java-archive                     
-trilead-api                           2.147.vb_73cc728a_32e                      jenkins-plugin  (+1 duplicate)   
+tink                                  1.16.0                                     java-archive                     
+trilead-api                           2.190.v1ed19f8137f8                        jenkins-plugin  (+1 duplicate)   
 trilead-putty-extension               1.2                                        java-archive                     
-trilead-ssh2                          build-217-jenkins-274.276.v58da_75159cb_7  java-archive                     
-trilead-ssh2-build                    217-jenkins-274.276.v58da_75159cb_7        java-archive                     
+trilead-ssh2                          build-217-jenkins-324.v1d9a_9f4d065e       java-archive                     
+trilead-ssh2-build                    217-jenkins-324.v1d9a_9f4d065e             java-archive                     
 txw2                                  2.3.9                                      java-archive                     
 txw2                                  20110809                                   java-archive                     
 tyrus-client                          2.2.0                                      java-archive    (+1 duplicate)   
@@ -351,14 +354,14 @@ unzip                                 6.0-r14                                   
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive                     
 version-number                        1.12                                       java-archive                     
-websocket-jetty12-ee9                 2.498                                      java-archive                     
-websocket-spi                         2.498                                      java-archive                     
+websocket-jetty12-ee9                 2.499                                      java-archive                     
+websocket-spi                         2.499                                      java-archive                     
 windows-package-checker               1.2                                        java-archive                     
 winp                                  1.31                                       java-archive                     
 winstone                              8.4                                        java-archive                     
 woodstox-core                         6.6.1                                      java-archive                     
 workflow-api                          1363.v03f731255494                         jenkins-plugin  (+1 duplicate)   
-workflow-step-api                     686.v603d058a_e148                         jenkins-plugin  (+1 duplicate)   
+workflow-step-api                     700.v6e45cb_a_5a_a_21                      jenkins-plugin  (+1 duplicate)   
 workflow-support                      946.v2a_79d8a_4b_e14                       jenkins-plugin  (+1 duplicate)   
 xpp3                                  1.1.4c                                     java-archive                     
 xsdlib                                2022.7                                     java-archive                     
