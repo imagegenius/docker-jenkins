@@ -350,7 +350,7 @@ tyrus-container-jdk-client            2.2.0                                     
 tyrus-core                            2.2.0                                      java-archive    (+1 duplicate)   
 tyrus-spi                             2.2.0                                      java-archive    (+1 duplicate)   
 tyrus-standalone-client-jdk           2.2.0                                      java-archive    (+1 duplicate)   
-tzdata                                2025a-r0                                   apk                              
+tzdata                                2025b-r0                                   apk                              
 unzip                                 6.0-r14                                    apk                              
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive                     
