@@ -28,7 +28,7 @@ bcpg-jdk18on                          1.81                                      
 bcpkix-jdk18on                        1.81                                       java-archive                     
 bcprov-jdk18on                        1.81                                       java-archive                     
 bcutil-jdk18on                        1.81                                       java-archive                     
-bootstrap5-api                        5.3.7-2                                    jenkins-plugin  (+1 duplicate)   
+bootstrap5-api                        5.3.7-860.v1251c115c90c                    jenkins-plugin  (+1 duplicate)   
 bouncycastle-api                      2.30.1.81-264.v95c79c0e772c                jenkins-plugin  (+1 duplicate)   
 bridge-method-annotation              1.32                                       java-archive                     
 brotli-libs                           1.1.0-r2                                   apk                              
@@ -41,7 +41,7 @@ caffeine                              3.2.2                                     
 caffeine-api                          3.2.2-178.v353b_8428ed56                   jenkins-plugin  (+1 duplicate)   
 catatonit                             0.2.0-r0                                   apk                              
 checks-api                            373.vfe7645102093                          jenkins-plugin  (+1 duplicate)   
-cli                                   2.524                                      java-archive                     
+cli                                   2.525                                      java-archive                     
 command-launcher                      123.v37cfdc92ef67                          jenkins-plugin  (+1 duplicate)   
 commons-beanutils                     1.11.0                                     java-archive                     
 commons-beanutils                     1.9.4                                      java-archive                     
@@ -75,13 +75,13 @@ crypto-util                           1.11                                      
 curl                                  8.12.1-r0                                  apk                              
 display-url-api                       2.217.va_6b_de84cc74b_                     jenkins-plugin  (+1 duplicate)   
 dom4j                                 2.2.0                                      java-archive                     
-echarts-api                           6.0.0-1                                    jenkins-plugin  (+1 duplicate)   
+echarts-api                           6.0.0-1146.v5c8f3b_8f0573                  jenkins-plugin  (+1 duplicate)   
 eddsa-api                             0.3.0.1-19.vc432d923e5ee                   jenkins-plugin  (+1 duplicate)   
 encodings                             1.0.7-r1                                   apk                              
 failureaccess                         1.0.3                                      java-archive                     
 findutils                             4.9.0-r5                                   apk                              
 fluent-hc                             4.5.14                                     java-archive                     
-font-awesome-api                      7.0.0-1                                    jenkins-plugin  (+1 duplicate)   
+font-awesome-api                      7.0.0-851.vd1feb_218a_a_63                 jenkins-plugin  (+1 duplicate)   
 font-dejavu                           2.37-r5                                    apk                              
 fontconfig                            2.15.0-r1                                  apk                              
 freetype                              2.13.2-r0                                  apk                              
@@ -184,9 +184,9 @@ jcip-annotations                      1.0                                       
 jcl-over-slf4j                        2.0.17                                     java-archive    (+1 duplicate)   
 jcommon                               1.0.23                                     java-archive                     
 jdk-tool                              83.v417146707a_3d                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                          2.524                                      java-archive                     
+jenkins-core                          2.525                                      java-archive                     
 jenkins-plugin-manager                UNKNOWN                                    java-archive                     
-jenkins-war                           2.524                                      java-archive                     
+jenkins-war                           2.525                                      java-archive                     
 jetty-alpn-java-server                12.0.25                                    java-archive                     
 jetty-alpn-server                     12.0.25                                    java-archive                     
 jetty-ee                              12.0.25                                    java-archive                     
@@ -216,7 +216,7 @@ jfreechart                            1.0.19                                    
 jline                                 2.14.6                                     java-archive                     
 jna                                   5.17.0                                     java-archive                     
 jq                                    1.7.1-r0                                   apk                              
-jquery3-api                           3.7.1-583.vda_6ca_102270d                  jenkins-plugin  (+1 duplicate)   
+jquery3-api                           3.7.1-594.vb_3864f326cf0                   jenkins-plugin  (+1 duplicate)   
 jrt-fs                                17.0.16                                    java-archive                     
 json                                  20231013                                   java-archive                     
 json                                  20250517                                   java-archive                     
@@ -260,8 +260,8 @@ listenablefuture                      9999.0-empty-to-avoid-conflict-with-guava 
 localizer                             1.31                                       java-archive    (+1 duplicate)   
 log4j-over-slf4j                      2.0.17                                     java-archive                     
 logging-mailhandler                   2.0.4                                      java-archive                     
-mailer                                515.vd788654779b_1                         jenkins-plugin  (+1 duplicate)   
-matrix-auth                           3.2.7                                      jenkins-plugin  (+1 duplicate)   
+mailer                                522.va_995fa_cfb_8b_d                      jenkins-plugin  (+1 duplicate)   
+matrix-auth                           3.2.8                                      jenkins-plugin  (+1 duplicate)   
 matrix-project                        856.v4c352b_3a_b_23e                       jenkins-plugin  (+1 duplicate)   
 memory-monitor                        1.13                                       java-archive                     
 mina-core                             2.2.4                                      java-archive                     
@@ -289,7 +289,7 @@ parallel-collectors                   2.6.1                                     
 pcre2                                 10.43-r0                                   apk                              
 plugin-management-cli                 2.12.15                                    jenkins-plugin                   
 plugin-management-library             2.12.15                                    jenkins-plugin                   
-plugin-util-api                       6.1154.ved7e7d3035a_5                      jenkins-plugin  (+1 duplicate)   
+plugin-util-api                       6.1167.v022176c7e0ca_                      jenkins-plugin  (+1 duplicate)   
 pop3                                  2.0.4                                      java-archive                     
 procps-ng                             4.0.4-r0                                   apk                              
 readline                              8.2.10-r0                                  apk                              
@@ -314,9 +314,9 @@ spring-beans                          6.2.10                                    
 spring-context                        6.2.10                                     java-archive                     
 spring-core                           6.2.10                                     java-archive                     
 spring-expression                     6.2.10                                     java-archive                     
-spring-security-core                  6.5.2                                      java-archive                     
-spring-security-crypto                6.5.2                                      java-archive                     
-spring-security-web                   6.5.2                                      java-archive                     
+spring-security-core                  6.5.3                                      java-archive                     
+spring-security-crypto                6.5.3                                      java-archive                     
+spring-security-web                   6.5.3                                      java-archive                     
 spring-web                            6.2.10                                     java-archive                     
 sshd                                  3.374.v19b_d59ce6610                       java-archive    (+1 duplicate)   
 sshd-common                           2.15.0                                     java-archive    (+1 duplicate)   
@@ -351,8 +351,8 @@ unzip                                 6.0-r14                                   
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive                     
 version-number                        1.12                                       java-archive                     
-websocket-jetty12-ee9                 2.524                                      java-archive                     
-websocket-spi                         2.524                                      java-archive                     
+websocket-jetty12-ee9                 2.525                                      java-archive                     
+websocket-spi                         2.525                                      java-archive                     
 windows-package-checker               1.2                                        java-archive                     
 winp                                  1.31                                       java-archive                     
 winstone                              8.13                                       java-archive                     
