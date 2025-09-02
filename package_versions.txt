@@ -41,7 +41,7 @@ caffeine                              3.2.2                                     
 caffeine-api                          3.2.2-178.v353b_8428ed56                   jenkins-plugin  (+1 duplicate)   
 catatonit                             0.2.0-r0                                   apk                              
 checks-api                            373.vfe7645102093                          jenkins-plugin  (+1 duplicate)   
-cli                                   2.525                                      java-archive                     
+cli                                   2.526                                      java-archive                     
 command-launcher                      123.v37cfdc92ef67                          jenkins-plugin  (+1 duplicate)   
 commons-beanutils                     1.11.0                                     java-archive                     
 commons-beanutils                     1.9.4                                      java-archive                     
@@ -184,9 +184,9 @@ jcip-annotations                      1.0                                       
 jcl-over-slf4j                        2.0.17                                     java-archive    (+1 duplicate)   
 jcommon                               1.0.23                                     java-archive                     
 jdk-tool                              83.v417146707a_3d                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                          2.525                                      java-archive                     
+jenkins-core                          2.526                                      java-archive                     
 jenkins-plugin-manager                UNKNOWN                                    java-archive                     
-jenkins-war                           2.525                                      java-archive                     
+jenkins-war                           2.526                                      java-archive                     
 jetty-alpn-java-server                12.0.25                                    java-archive                     
 jetty-alpn-server                     12.0.25                                    java-archive                     
 jetty-ee                              12.0.25                                    java-archive                     
@@ -265,8 +265,8 @@ matrix-auth                           3.2.8                                     
 matrix-project                        856.v4c352b_3a_b_23e                       jenkins-plugin  (+1 duplicate)   
 memory-monitor                        1.13                                       java-archive                     
 mina-core                             2.2.4                                      java-archive                     
-mina-sshd-api-common                  2.15.0-161.vb_200831a_c15b_                jenkins-plugin  (+1 duplicate)   
-mina-sshd-api-core                    2.15.0-161.vb_200831a_c15b_                jenkins-plugin  (+1 duplicate)   
+mina-sshd-api-common                  2.16.0-167.va_269f38cc024                  jenkins-plugin  (+1 duplicate)   
+mina-sshd-api-core                    2.16.0-167.va_269f38cc024                  jenkins-plugin  (+1 duplicate)   
 mkfontscale                           1.2.2-r6                                   apk                              
 musl                                  1.2.5-r1                                   apk                              
 musl-locales                          0.1.0-r1                                   apk                              
@@ -319,9 +319,9 @@ spring-security-crypto                6.5.3                                     
 spring-security-web                   6.5.3                                      java-archive                     
 spring-web                            6.2.10                                     java-archive                     
 sshd                                  3.374.v19b_d59ce6610                       java-archive    (+1 duplicate)   
-sshd-common                           2.15.0                                     java-archive    (+1 duplicate)   
-sshd-core                             2.15.0                                     java-archive    (+1 duplicate)   
-sshd-mina                             2.15.0                                     java-archive                     
+sshd-common                           2.16.0                                     java-archive    (+1 duplicate)   
+sshd-core                             2.16.0                                     java-archive    (+1 duplicate)   
+sshd-mina                             2.16.0                                     java-archive                     
 ssl_client                            1.36.1-r29                                 apk                              
 stapler                               2014.v1f888f8f0b_84                        java-archive                     
 stapler-adjunct-codemirror            1.3                                        java-archive                     
@@ -351,8 +351,8 @@ unzip                                 6.0-r14                                   
 utmps-libs                            0.1.2.2-r1                                 apk                              
 version-number                        1.11                                       java-archive                     
 version-number                        1.12                                       java-archive                     
-websocket-jetty12-ee9                 2.525                                      java-archive                     
-websocket-spi                         2.525                                      java-archive                     
+websocket-jetty12-ee9                 2.526                                      java-archive                     
+websocket-spi                         2.526                                      java-archive                     
 windows-package-checker               1.2                                        java-archive                     
 winp                                  1.31                                       java-archive                     
 winstone                              8.13                                       java-archive                     
