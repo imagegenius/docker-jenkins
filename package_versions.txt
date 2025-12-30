@@ -41,7 +41,7 @@ caffeine                                    3.2.3                               
 caffeine-api                                3.2.3-194.v31a_b_f7a_b_5a_81               jenkins-plugin  (+1 duplicate)   
 catatonit                                   0.2.0-r0                                   apk                              
 checks-api                                  373.vfe7645102093                          jenkins-plugin  (+1 duplicate)   
-cli                                         2.543                                      java-archive                     
+cli                                         2.544                                      java-archive                     
 command-launcher                            123.v37cfdc92ef67                          jenkins-plugin  (+1 duplicate)   
 commons-beanutils                           1.11.0                                     java-archive                     
 commons-beanutils                           1.9.4                                      java-archive                     
@@ -191,9 +191,9 @@ jcip-annotations                            1.0                                 
 jcl-over-slf4j                              2.0.17                                     java-archive    (+1 duplicate)   
 jcommon                                     1.0.23                                     java-archive                     
 jdk-tool                                    83.v417146707a_3d                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                                2.543                                      java-archive                     
+jenkins-core                                2.544                                      java-archive                     
 jenkins-plugin-manager                      UNKNOWN                                    java-archive                     
-jenkins-war                                 2.543                                      java-archive                     
+jenkins-war                                 2.544                                      java-archive                     
 jetty-alpn-java-server                      12.1.5                                     java-archive                     
 jetty-alpn-server                           12.1.5                                     java-archive                     
 jetty-ee-webapp                             12.1.5                                     java-archive                     
@@ -360,8 +360,8 @@ unzip                                       6.0-r14                             
 utmps-libs                                  0.1.2.2-r1                                 apk                              
 version-number                              1.11                                       java-archive                     
 version-number                              1.12                                       java-archive                     
-websocket-jetty12-ee9                       2.543                                      java-archive                     
-websocket-spi                               2.543                                      java-archive                     
+websocket-jetty12-ee9                       2.544                                      java-archive                     
+websocket-spi                               2.544                                      java-archive                     
 windows-package-checker                     1.2                                        java-archive                     
 winp                                        1.31                                       java-archive                     
 winstone                                    8.1029.vd3071f6b_5988                      java-archive                     
