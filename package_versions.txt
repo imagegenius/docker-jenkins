@@ -8,7 +8,7 @@ alsa-lib                                    1.2.11-r0                           
 angus-activation                            2.0.3                                      java-archive                     
 angus-core                                  2.0.5                                      java-archive                     
 angus-mail                                  2.0.5                                      java-archive                     
-annotation-indexer                          1.18                                       java-archive    (+1 duplicate)   
+annotation-indexer                          1.213.v92788b_1f0a_21                      java-archive    (+1 duplicate)   
 ant                                         1.10.15                                    java-archive                     
 ant-launcher                                1.10.15                                    java-archive                     
 antisamy-markup-formatter                   173.v680e3a_b_69ff3                        jenkins-plugin  (+1 duplicate)   
@@ -41,7 +41,7 @@ caffeine                                    3.2.3                               
 caffeine-api                                3.2.3-194.v31a_b_f7a_b_5a_81               jenkins-plugin  (+1 duplicate)   
 catatonit                                   0.2.0-r0                                   apk                              
 checks-api                                  402.vca_263b_f200e3                        jenkins-plugin  (+1 duplicate)   
-cli                                         2.545                                      java-archive                     
+cli                                         2.546                                      java-archive                     
 command-launcher                            123.v37cfdc92ef67                          jenkins-plugin  (+1 duplicate)   
 commons-beanutils                           1.11.0                                     java-archive                     
 commons-beanutils                           1.9.4                                      java-archive                     
@@ -191,9 +191,9 @@ jcip-annotations                            1.0                                 
 jcl-over-slf4j                              2.0.17                                     java-archive    (+1 duplicate)   
 jcommon                                     1.0.23                                     java-archive                     
 jdk-tool                                    83.v417146707a_3d                          jenkins-plugin  (+1 duplicate)   
-jenkins-core                                2.545                                      java-archive                     
+jenkins-core                                2.546                                      java-archive                     
 jenkins-plugin-manager                      UNKNOWN                                    java-archive                     
-jenkins-war                                 2.545                                      java-archive                     
+jenkins-war                                 2.546                                      java-archive                     
 jetty-alpn-java-server                      12.1.5                                     java-archive                     
 jetty-alpn-server                           12.1.5                                     java-archive                     
 jetty-ee-webapp                             12.1.5                                     java-archive                     
@@ -360,8 +360,8 @@ unzip                                       6.0-r14                             
 utmps-libs                                  0.1.2.2-r1                                 apk                              
 version-number                              1.11                                       java-archive                     
 version-number                              1.14                                       java-archive                     
-websocket-jetty12-ee9                       2.545                                      java-archive                     
-websocket-spi                               2.545                                      java-archive                     
+websocket-jetty12-ee9                       2.546                                      java-archive                     
+websocket-spi                               2.546                                      java-archive                     
 windows-package-checker                     1.2                                        java-archive                     
 winp                                        1.31                                       java-archive                     
 winstone                                    8.1029.vd3071f6b_5988                      java-archive                     
