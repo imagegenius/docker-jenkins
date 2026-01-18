@@ -16,7 +16,7 @@ RUN \
   echo "**** install runtime packages ****" && \
   apk add --no-cache bash \
     coreutils \
-    openjdk17-jre \
+    openjdk21-jre \
     git \
     git-lfs \
     musl-locales \
